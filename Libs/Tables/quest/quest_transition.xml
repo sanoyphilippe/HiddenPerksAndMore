@@ -81,6 +81,7 @@
       <row enabled="True" from_objective_id="158" quest_id="5571166" to_objective_id="160" />
       <row enabled="True" from_objective_id="159" quest_id="5571166" to_objective_id="163" />
       <row enabled="True" from_objective_id="160" quest_id="5571166" to_objective_id="159" />
+      <row enabled="True" from_objective_id="237" quest_id="5571166" to_objective_id="419" />
       <row enabled="True" from_objective_id="2" quest_id="6083011" to_objective_id="4" />
       <row enabled="True" from_objective_id="4" quest_id="6083011" to_objective_id="5" />
       <row enabled="False" from_objective_id="4" quest_id="6083011" to_objective_id="35" />
@@ -401,6 +402,7 @@
       <row enabled="True" from_objective_id="26" quest_id="18195001" to_objective_id="12" />
       <row enabled="True" from_objective_id="136" quest_id="18195001" to_objective_id="3" />
       <row enabled="True" from_objective_id="136" quest_id="18195001" to_objective_id="13" />
+      <row enabled="True" from_objective_id="136" quest_id="18195001" to_objective_id="350" />
       <row enabled="True" from_objective_id="200" quest_id="18195001" to_objective_id="203" />
       <row enabled="True" from_objective_id="201" quest_id="18195001" to_objective_id="203" />
       <row enabled="True" from_objective_id="202" quest_id="18195001" to_objective_id="203" />
@@ -698,8 +700,6 @@
       <row enabled="True" from_objective_id="50" quest_id="26815832" to_objective_id="242" />
       <row enabled="True" from_objective_id="58" quest_id="26815832" to_objective_id="242" />
       <row enabled="True" from_objective_id="65" quest_id="26815832" to_objective_id="242" />
-      <row enabled="True" from_objective_id="79" quest_id="26815832" to_objective_id="259" />
-      <row enabled="False" from_objective_id="86" quest_id="26815832" to_objective_id="79" />
       <row enabled="False" from_objective_id="2" quest_id="26995527" to_objective_id="106" />
       <row enabled="False" from_objective_id="2" quest_id="26995527" to_objective_id="107" />
       <row enabled="True" from_objective_id="2" quest_id="26995527" to_objective_id="108" />
@@ -886,6 +886,7 @@
       <row enabled="True" from_objective_id="18" quest_id="28560397" to_objective_id="20" />
       <row enabled="True" from_objective_id="19" quest_id="28560397" to_objective_id="20" />
       <row enabled="True" from_objective_id="2" quest_id="29241208" to_objective_id="9" />
+      <row enabled="True" from_objective_id="2" quest_id="29241208" to_objective_id="300" />
       <row enabled="True" from_objective_id="2" quest_id="29241208" to_objective_id="462" />
       <row enabled="True" from_objective_id="2" quest_id="29241208" to_objective_id="545" />
       <row enabled="True" from_objective_id="9" quest_id="29241208" to_objective_id="11" />
@@ -945,6 +946,7 @@
       <row enabled="True" from_objective_id="53" quest_id="30440447" to_objective_id="600" />
       <row enabled="True" from_objective_id="57" quest_id="30440447" to_objective_id="505" />
       <row enabled="True" from_objective_id="71" quest_id="30440447" to_objective_id="3" />
+      <row enabled="True" from_objective_id="71" quest_id="30440447" to_objective_id="750" />
       <row enabled="True" from_objective_id="76" quest_id="30440447" to_objective_id="438" />
       <row enabled="True" from_objective_id="77" quest_id="30440447" to_objective_id="438" />
       <row enabled="True" from_objective_id="78" quest_id="30440447" to_objective_id="438" />
@@ -1054,6 +1056,10 @@
       <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="1592" />
       <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="1659" />
       <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="1784" />
+      <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="2030" />
+      <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="2072" />
+      <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="2115" />
+      <row enabled="True" from_objective_id="2" quest_id="32103248" to_objective_id="2161" />
       <row enabled="True" from_objective_id="4" quest_id="32103248" to_objective_id="960" />
       <row enabled="True" from_objective_id="129" quest_id="32103248" to_objective_id="834" />
       <row enabled="True" from_objective_id="525" quest_id="32103248" to_objective_id="553" />
@@ -1065,6 +1071,7 @@
       <row enabled="True" from_objective_id="1016" quest_id="32103248" to_objective_id="1410" />
       <row enabled="True" from_objective_id="1016" quest_id="32103248" to_objective_id="1618" />
       <row enabled="True" from_objective_id="1038" quest_id="32103248" to_objective_id="3" />
+      <row enabled="True" from_objective_id="1038" quest_id="32103248" to_objective_id="1907" />
       <row enabled="True" from_objective_id="1058" quest_id="32103248" to_objective_id="469" />
       <row enabled="True" from_objective_id="1260" quest_id="32103248" to_objective_id="1264" />
       <row enabled="True" from_objective_id="1260" quest_id="32103248" to_objective_id="1265" />
@@ -1210,9 +1217,9 @@
       <row enabled="True" from_objective_id="381" quest_id="33995473" to_objective_id="45" />
       <row enabled="True" from_objective_id="420" quest_id="33995473" to_objective_id="401" />
       <row enabled="True" from_objective_id="508" quest_id="33995473" to_objective_id="3" />
-      <row enabled="True" from_objective_id="575" quest_id="33995473" to_objective_id="576" />
       <row enabled="True" from_objective_id="575" quest_id="33995473" to_objective_id="577" />
       <row enabled="True" from_objective_id="575" quest_id="33995473" to_objective_id="578" />
+      <row enabled="True" from_objective_id="575" quest_id="33995473" to_objective_id="1184" />
       <row enabled="True" from_objective_id="709" quest_id="33995473" to_objective_id="43" />
       <row enabled="True" from_objective_id="772" quest_id="33995473" to_objective_id="773" />
       <row enabled="True" from_objective_id="947" quest_id="33995473" to_objective_id="1003" />
@@ -1227,6 +1234,7 @@
       <row enabled="True" from_objective_id="11" quest_id="34072744" to_objective_id="9" />
       <row enabled="True" from_objective_id="11" quest_id="34072744" to_objective_id="766" />
       <row enabled="False" from_objective_id="21" quest_id="34072744" to_objective_id="63" />
+      <row enabled="True" from_objective_id="25" quest_id="34072744" to_objective_id="944" />
       <row enabled="False" from_objective_id="26" quest_id="34072744" to_objective_id="102" />
       <row enabled="False" from_objective_id="27" quest_id="34072744" to_objective_id="79" />
       <row enabled="True" from_objective_id="63" quest_id="34072744" to_objective_id="245" />
@@ -1329,12 +1337,13 @@
       <row enabled="True" from_objective_id="2" quest_id="37033673" to_objective_id="182" />
       <row enabled="True" from_objective_id="2" quest_id="37033673" to_objective_id="224" />
       <row enabled="True" from_objective_id="2" quest_id="37033673" to_objective_id="308" />
+      <row enabled="True" from_objective_id="2" quest_id="37033673" to_objective_id="402" />
       <row enabled="True" from_objective_id="4" quest_id="37033673" to_objective_id="6" />
       <row enabled="True" from_objective_id="4" quest_id="37033673" to_objective_id="356" />
       <row enabled="True" from_objective_id="5" quest_id="37033673" to_objective_id="6" />
       <row enabled="True" from_objective_id="5" quest_id="37033673" to_objective_id="74" />
       <row enabled="True" from_objective_id="5" quest_id="37033673" to_objective_id="356" />
-      <row enabled="True" from_objective_id="6" quest_id="37033673" to_objective_id="3" />
+      <row enabled="True" from_objective_id="6" quest_id="37033673" to_objective_id="268" />
       <row enabled="True" from_objective_id="7" quest_id="37033673" to_objective_id="255" />
       <row enabled="True" from_objective_id="8" quest_id="37033673" to_objective_id="255" />
       <row enabled="True" from_objective_id="12" quest_id="37033673" to_objective_id="81" />
@@ -1356,6 +1365,8 @@
       <row enabled="True" from_objective_id="195" quest_id="37033673" to_objective_id="242" />
       <row enabled="True" from_objective_id="196" quest_id="37033673" to_objective_id="119" />
       <row enabled="True" from_objective_id="196" quest_id="37033673" to_objective_id="242" />
+      <row enabled="True" from_objective_id="268" quest_id="37033673" to_objective_id="3" />
+      <row enabled="True" from_objective_id="268" quest_id="37033673" to_objective_id="379" />
       <row enabled="False" from_objective_id="2" quest_id="37808566" to_objective_id="99" />
       <row enabled="True" from_objective_id="6" quest_id="37808566" to_objective_id="7" />
       <row enabled="False" from_objective_id="6" quest_id="37808566" to_objective_id="108" />
@@ -1371,6 +1382,7 @@
       <row enabled="False" from_objective_id="15" quest_id="37808566" to_objective_id="76" />
       <row enabled="False" from_objective_id="15" quest_id="37808566" to_objective_id="77" />
       <row enabled="False" from_objective_id="15" quest_id="37808566" to_objective_id="78" />
+      <row enabled="True" from_objective_id="15" quest_id="37808566" to_objective_id="129" />
       <row enabled="True" from_objective_id="16" quest_id="37808566" to_objective_id="3" />
       <row enabled="False" from_objective_id="16" quest_id="37808566" to_objective_id="79" />
       <row enabled="False" from_objective_id="16" quest_id="37808566" to_objective_id="80" />
@@ -1395,6 +1407,7 @@
       <row enabled="True" from_objective_id="88" quest_id="37887295" to_objective_id="93" />
       <row enabled="True" from_objective_id="133" quest_id="37887295" to_objective_id="141" />
       <row enabled="True" from_objective_id="197" quest_id="37887295" to_objective_id="3" />
+      <row enabled="True" from_objective_id="197" quest_id="37887295" to_objective_id="323" />
       <row enabled="True" from_objective_id="2" quest_id="38316489" to_objective_id="5" />
       <row enabled="True" from_objective_id="2" quest_id="38316489" to_objective_id="6" />
       <row enabled="True" from_objective_id="2" quest_id="38316489" to_objective_id="7" />
@@ -1403,6 +1416,7 @@
       <row enabled="True" from_objective_id="2" quest_id="38316489" to_objective_id="56" />
       <row enabled="True" from_objective_id="2" quest_id="38316489" to_objective_id="66" />
       <row enabled="True" from_objective_id="4" quest_id="38316489" to_objective_id="3" />
+      <row enabled="True" from_objective_id="4" quest_id="38316489" to_objective_id="112" />
       <row enabled="True" from_objective_id="6" quest_id="38316489" to_objective_id="17" />
       <row enabled="True" from_objective_id="6" quest_id="38316489" to_objective_id="50" />
       <row enabled="True" from_objective_id="7" quest_id="38316489" to_objective_id="17" />
@@ -1413,6 +1427,7 @@
       <row enabled="True" from_objective_id="20" quest_id="38316489" to_objective_id="90" />
       <row enabled="True" from_objective_id="21" quest_id="38316489" to_objective_id="91" />
       <row enabled="True" from_objective_id="50" quest_id="38316489" to_objective_id="4" />
+      <row enabled="True" from_objective_id="66" quest_id="38316489" to_objective_id="147" />
       <row enabled="True" from_objective_id="88" quest_id="38316489" to_objective_id="76" />
       <row enabled="True" from_objective_id="90" quest_id="38316489" to_objective_id="77" />
       <row enabled="True" from_objective_id="91" quest_id="38316489" to_objective_id="78" />
@@ -1439,6 +1454,7 @@
       <row enabled="True" from_objective_id="4" quest_id="38833711" to_objective_id="87" />
       <row enabled="True" from_objective_id="86" quest_id="38833711" to_objective_id="87" />
       <row enabled="True" from_objective_id="87" quest_id="38833711" to_objective_id="3" />
+      <row enabled="True" from_objective_id="87" quest_id="38833711" to_objective_id="163" />
       <row enabled="True" from_objective_id="2" quest_id="38836125" to_objective_id="85" />
       <row enabled="True" from_objective_id="2" quest_id="38836125" to_objective_id="167" />
       <row enabled="True" from_objective_id="2" quest_id="38836125" to_objective_id="169" />
@@ -1465,25 +1481,29 @@
       <row enabled="True" from_objective_id="6" quest_id="39430324" to_objective_id="8" />
       <row enabled="True" from_objective_id="7" quest_id="39430324" to_objective_id="12" />
       <row enabled="True" from_objective_id="11" quest_id="39430324" to_objective_id="3" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="4" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="9" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="10" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="12" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="15" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="16" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="17" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="23" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="28" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="29" />
-      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="30" />
-      <row enabled="True" from_objective_id="20" quest_id="39438237" to_objective_id="19" />
-      <row enabled="True" from_objective_id="21" quest_id="39438237" to_objective_id="20" />
-      <row enabled="True" from_objective_id="22" quest_id="39438237" to_objective_id="21" />
-      <row enabled="True" from_objective_id="23" quest_id="39438237" to_objective_id="22" />
-      <row enabled="True" from_objective_id="24" quest_id="39438237" to_objective_id="3" />
-      <row enabled="True" from_objective_id="28" quest_id="39438237" to_objective_id="32" />
-      <row enabled="True" from_objective_id="29" quest_id="39438237" to_objective_id="32" />
-      <row enabled="True" from_objective_id="30" quest_id="39438237" to_objective_id="32" />
+      <row enabled="True" from_objective_id="2" quest_id="39438237" to_objective_id="45" />
+      <row enabled="True" from_objective_id="45" quest_id="39438237" to_objective_id="46" />
+      <row enabled="True" from_objective_id="45" quest_id="39438237" to_objective_id="47" />
+      <row enabled="True" from_objective_id="46" quest_id="39438237" to_objective_id="51" />
+      <row enabled="True" from_objective_id="52" quest_id="39438237" to_objective_id="74" />
+      <row enabled="True" from_objective_id="52" quest_id="39438237" to_objective_id="81" />
+      <row enabled="True" from_objective_id="116" quest_id="39438237" to_objective_id="507" />
+      <row enabled="True" from_objective_id="119" quest_id="39438237" to_objective_id="507" />
+      <row enabled="True" from_objective_id="125" quest_id="39438237" to_objective_id="132" />
+      <row enabled="True" from_objective_id="126" quest_id="39438237" to_objective_id="132" />
+      <row enabled="True" from_objective_id="138" quest_id="39438237" to_objective_id="126" />
+      <row enabled="True" from_objective_id="194" quest_id="39438237" to_objective_id="196" />
+      <row enabled="True" from_objective_id="202" quest_id="39438237" to_objective_id="3" />
+      <row enabled="True" from_objective_id="223" quest_id="39438237" to_objective_id="483" />
+      <row enabled="True" from_objective_id="254" quest_id="39438237" to_objective_id="483" />
+      <row enabled="True" from_objective_id="255" quest_id="39438237" to_objective_id="483" />
+      <row enabled="True" from_objective_id="262" quest_id="39438237" to_objective_id="107" />
+      <row enabled="True" from_objective_id="262" quest_id="39438237" to_objective_id="138" />
+      <row enabled="True" from_objective_id="262" quest_id="39438237" to_objective_id="199" />
+      <row enabled="True" from_objective_id="262" quest_id="39438237" to_objective_id="254" />
+      <row enabled="True" from_objective_id="262" quest_id="39438237" to_objective_id="255" />
+      <row enabled="True" from_objective_id="483" quest_id="39438237" to_objective_id="507" />
+      <row enabled="True" from_objective_id="507" quest_id="39438237" to_objective_id="202" />
       <row enabled="True" from_objective_id="2" quest_id="39550793" to_objective_id="5" />
       <row enabled="True" from_objective_id="2" quest_id="39550793" to_objective_id="6" />
       <row enabled="True" from_objective_id="2" quest_id="39550793" to_objective_id="10" />
@@ -1626,6 +1646,7 @@
       <row enabled="True" from_objective_id="22" quest_id="42662062" to_objective_id="110" />
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="27" />
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="65" />
+      <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="67" />
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="79" />
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="80" />
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="81" />
@@ -1638,13 +1659,13 @@
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="480" />
       <row enabled="True" from_objective_id="23" quest_id="42662062" to_objective_id="485" />
       <row enabled="True" from_objective_id="27" quest_id="42662062" to_objective_id="28" />
-      <row enabled="True" from_objective_id="27" quest_id="42662062" to_objective_id="67" />
       <row enabled="True" from_objective_id="27" quest_id="42662062" to_objective_id="476" />
       <row enabled="True" from_objective_id="27" quest_id="42662062" to_objective_id="477" />
       <row enabled="True" from_objective_id="27" quest_id="42662062" to_objective_id="478" />
       <row enabled="True" from_objective_id="27" quest_id="42662062" to_objective_id="482" />
       <row enabled="True" from_objective_id="28" quest_id="42662062" to_objective_id="29" />
       <row enabled="True" from_objective_id="28" quest_id="42662062" to_objective_id="98" />
+      <row enabled="True" from_objective_id="28" quest_id="42662062" to_objective_id="504" />
       <row enabled="True" from_objective_id="29" quest_id="42662062" to_objective_id="30" />
       <row enabled="True" from_objective_id="29" quest_id="42662062" to_objective_id="63" />
       <row enabled="True" from_objective_id="30" quest_id="42662062" to_objective_id="31" />
@@ -1656,7 +1677,6 @@
       <row enabled="True" from_objective_id="33" quest_id="42662062" to_objective_id="9" />
       <row enabled="True" from_objective_id="33" quest_id="42662062" to_objective_id="69" />
       <row enabled="True" from_objective_id="33" quest_id="42662062" to_objective_id="96" />
-      <row enabled="True" from_objective_id="33" quest_id="42662062" to_objective_id="495" />
       <row enabled="True" from_objective_id="33" quest_id="42662062" to_objective_id="496" />
       <row enabled="True" from_objective_id="34" quest_id="42662062" to_objective_id="36" />
       <row enabled="True" from_objective_id="34" quest_id="42662062" to_objective_id="92" />
@@ -1686,6 +1706,8 @@
       <row enabled="True" from_objective_id="76" quest_id="42662062" to_objective_id="70" />
       <row enabled="True" from_objective_id="76" quest_id="42662062" to_objective_id="74" />
       <row enabled="True" from_objective_id="76" quest_id="42662062" to_objective_id="487" />
+      <row enabled="True" from_objective_id="76" quest_id="42662062" to_objective_id="505" />
+      <row enabled="True" from_objective_id="76" quest_id="42662062" to_objective_id="509" />
       <row enabled="True" from_objective_id="77" quest_id="42662062" to_objective_id="78" />
       <row enabled="True" from_objective_id="79" quest_id="42662062" to_objective_id="495" />
       <row enabled="True" from_objective_id="80" quest_id="42662062" to_objective_id="470" />
@@ -1709,6 +1731,10 @@
       <row enabled="True" from_objective_id="490" quest_id="42662062" to_objective_id="491" />
       <row enabled="True" from_objective_id="491" quest_id="42662062" to_objective_id="492" />
       <row enabled="True" from_objective_id="494" quest_id="42662062" to_objective_id="104" />
+      <row enabled="True" from_objective_id="501" quest_id="42662062" to_objective_id="502" />
+      <row enabled="True" from_objective_id="501" quest_id="42662062" to_objective_id="508" />
+      <row enabled="True" from_objective_id="506" quest_id="42662062" to_objective_id="507" />
+      <row enabled="True" from_objective_id="509" quest_id="42662062" to_objective_id="501" />
       <row enabled="True" from_objective_id="2" quest_id="43752628" to_objective_id="4" />
       <row enabled="True" from_objective_id="4" quest_id="43752628" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="44283227" to_objective_id="21" />
@@ -1773,6 +1799,7 @@
       <row enabled="True" from_objective_id="2" quest_id="45073577" to_objective_id="546" />
       <row enabled="True" from_objective_id="2" quest_id="45073577" to_objective_id="1212" />
       <row enabled="True" from_objective_id="2" quest_id="45073577" to_objective_id="1899" />
+      <row enabled="True" from_objective_id="2" quest_id="45073577" to_objective_id="2131" />
       <row enabled="True" from_objective_id="4" quest_id="45073577" to_objective_id="281" />
       <row enabled="True" from_objective_id="4" quest_id="45073577" to_objective_id="1360" />
       <row enabled="True" from_objective_id="5" quest_id="45073577" to_objective_id="1259" />
@@ -1820,6 +1847,7 @@
       <row enabled="True" from_objective_id="2" quest_id="45407921" to_objective_id="1724" />
       <row enabled="True" from_objective_id="2" quest_id="45407921" to_objective_id="3104" />
       <row enabled="True" from_objective_id="2" quest_id="45407921" to_objective_id="3137" />
+      <row enabled="True" from_objective_id="2" quest_id="45407921" to_objective_id="4646" />
       <row enabled="True" from_objective_id="5" quest_id="45407921" to_objective_id="3" />
       <row enabled="True" from_objective_id="7" quest_id="45407921" to_objective_id="3071" />
       <row enabled="True" from_objective_id="11" quest_id="45407921" to_objective_id="307" />
@@ -1906,6 +1934,7 @@
       <row enabled="True" from_objective_id="2" quest_id="47892696" to_objective_id="409" />
       <row enabled="True" from_objective_id="2" quest_id="47892696" to_objective_id="435" />
       <row enabled="True" from_objective_id="2" quest_id="47892696" to_objective_id="543" />
+      <row enabled="True" from_objective_id="2" quest_id="47892696" to_objective_id="651" />
       <row enabled="False" from_objective_id="4" quest_id="47892696" to_objective_id="37" />
       <row enabled="False" from_objective_id="4" quest_id="47892696" to_objective_id="38" />
       <row enabled="False" from_objective_id="4" quest_id="47892696" to_objective_id="39" />
@@ -1977,6 +2006,9 @@
       <row enabled="True" from_objective_id="2" quest_id="48004272" to_objective_id="5" />
       <row enabled="True" from_objective_id="5" quest_id="48004272" to_objective_id="11" />
       <row enabled="True" from_objective_id="5" quest_id="48004272" to_objective_id="280" />
+      <row enabled="True" from_objective_id="5" quest_id="48004272" to_objective_id="318" />
+      <row enabled="True" from_objective_id="5" quest_id="48004272" to_objective_id="321" />
+      <row enabled="True" from_objective_id="5" quest_id="48004272" to_objective_id="322" />
       <row enabled="True" from_objective_id="5" quest_id="48004272" to_objective_id="362" />
       <row enabled="True" from_objective_id="7" quest_id="48004272" to_objective_id="9" />
       <row enabled="True" from_objective_id="9" quest_id="48004272" to_objective_id="33" />
@@ -1987,9 +2019,6 @@
       <row enabled="True" from_objective_id="11" quest_id="48004272" to_objective_id="254" />
       <row enabled="True" from_objective_id="11" quest_id="48004272" to_objective_id="255" />
       <row enabled="True" from_objective_id="11" quest_id="48004272" to_objective_id="256" />
-      <row enabled="True" from_objective_id="11" quest_id="48004272" to_objective_id="318" />
-      <row enabled="True" from_objective_id="11" quest_id="48004272" to_objective_id="321" />
-      <row enabled="True" from_objective_id="11" quest_id="48004272" to_objective_id="322" />
       <row enabled="True" from_objective_id="15" quest_id="48004272" to_objective_id="104" />
       <row enabled="True" from_objective_id="15" quest_id="48004272" to_objective_id="296" />
       <row enabled="True" from_objective_id="15" quest_id="48004272" to_objective_id="343" />
@@ -2124,12 +2153,7 @@
       <row enabled="True" from_objective_id="865" quest_id="48091733" to_objective_id="75" />
       <row enabled="True" from_objective_id="865" quest_id="48091733" to_objective_id="81" />
       <row enabled="True" from_objective_id="865" quest_id="48091733" to_objective_id="87" />
-      <row enabled="False" from_objective_id="2" quest_id="48522461" to_objective_id="6" />
-      <row enabled="True" from_objective_id="6" quest_id="48522461" to_objective_id="7" />
-      <row enabled="True" from_objective_id="6" quest_id="48522461" to_objective_id="42" />
-      <row enabled="True" from_objective_id="6" quest_id="48522461" to_objective_id="43" />
-      <row enabled="True" from_objective_id="7" quest_id="48522461" to_objective_id="15" />
-      <row enabled="False" from_objective_id="7" quest_id="48522461" to_objective_id="21" />
+      <row enabled="True" from_objective_id="2" quest_id="48522461" to_objective_id="272" />
       <row enabled="True" from_objective_id="8" quest_id="48522461" to_objective_id="3" />
       <row enabled="True" from_objective_id="15" quest_id="48522461" to_objective_id="18" />
       <row enabled="True" from_objective_id="18" quest_id="48522461" to_objective_id="74" />
@@ -2137,20 +2161,14 @@
       <row enabled="True" from_objective_id="27" quest_id="48522461" to_objective_id="84" />
       <row enabled="True" from_objective_id="74" quest_id="48522461" to_objective_id="27" />
       <row enabled="True" from_objective_id="79" quest_id="48522461" to_objective_id="175" />
-      <row enabled="True" from_objective_id="84" quest_id="48522461" to_objective_id="89" />
-      <row enabled="True" from_objective_id="89" quest_id="48522461" to_objective_id="106" />
       <row enabled="True" from_objective_id="106" quest_id="48522461" to_objective_id="79" />
-      <row enabled="True" from_objective_id="106" quest_id="48522461" to_objective_id="107" />
-      <row enabled="True" from_objective_id="130" quest_id="48522461" to_objective_id="106" />
-      <row enabled="True" from_objective_id="137" quest_id="48522461" to_objective_id="144" />
-      <row enabled="True" from_objective_id="144" quest_id="48522461" to_objective_id="145" />
-      <row enabled="True" from_objective_id="144" quest_id="48522461" to_objective_id="183" />
-      <row enabled="False" from_objective_id="145" quest_id="48522461" to_objective_id="157" />
       <row enabled="False" from_objective_id="157" quest_id="48522461" to_objective_id="158" />
       <row enabled="False" from_objective_id="157" quest_id="48522461" to_objective_id="166" />
       <row enabled="True" from_objective_id="158" quest_id="48522461" to_objective_id="8" />
       <row enabled="True" from_objective_id="166" quest_id="48522461" to_objective_id="8" />
       <row enabled="True" from_objective_id="175" quest_id="48522461" to_objective_id="137" />
+      <row enabled="True" from_objective_id="374" quest_id="48522461" to_objective_id="381" />
+      <row enabled="True" from_objective_id="419" quest_id="48522461" to_objective_id="426" />
       <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="4" />
       <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="71" />
       <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="108" />
@@ -2162,6 +2180,7 @@
       <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="901" />
       <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="922" />
       <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="966" />
+      <row enabled="True" from_objective_id="2" quest_id="48674421" to_objective_id="1778" />
       <row enabled="True" from_objective_id="7" quest_id="48674421" to_objective_id="8" />
       <row enabled="True" from_objective_id="8" quest_id="48674421" to_objective_id="9" />
       <row enabled="True" from_objective_id="9" quest_id="48674421" to_objective_id="10" />
@@ -2182,6 +2201,7 @@
       <row enabled="True" from_objective_id="43" quest_id="48674421" to_objective_id="1272" />
       <row enabled="True" from_objective_id="43" quest_id="48674421" to_objective_id="1305" />
       <row enabled="True" from_objective_id="68" quest_id="48674421" to_objective_id="3" />
+      <row enabled="True" from_objective_id="68" quest_id="48674421" to_objective_id="1816" />
       <row enabled="True" from_objective_id="71" quest_id="48674421" to_objective_id="648" />
       <row enabled="True" from_objective_id="71" quest_id="48674421" to_objective_id="678" />
       <row enabled="True" from_objective_id="71" quest_id="48674421" to_objective_id="724" />
@@ -2261,6 +2281,7 @@
       <row enabled="True" from_objective_id="83" quest_id="49026310" to_objective_id="209" />
       <row enabled="True" from_objective_id="83" quest_id="49026310" to_objective_id="505" />
       <row enabled="True" from_objective_id="83" quest_id="49026310" to_objective_id="506" />
+      <row enabled="True" from_objective_id="83" quest_id="49026310" to_objective_id="893" />
       <row enabled="True" from_objective_id="91" quest_id="49026310" to_objective_id="221" />
       <row enabled="True" from_objective_id="97" quest_id="49026310" to_objective_id="102" />
       <row enabled="True" from_objective_id="102" quest_id="49026310" to_objective_id="23" />
@@ -2500,8 +2521,8 @@
       <row enabled="True" from_objective_id="130" quest_id="50510365" to_objective_id="438" />
       <row enabled="True" from_objective_id="150" quest_id="50510365" to_objective_id="214" />
       <row enabled="True" from_objective_id="150" quest_id="50510365" to_objective_id="1054" />
-      <row enabled="True" from_objective_id="160" quest_id="50510365" to_objective_id="3" />
       <row enabled="True" from_objective_id="160" quest_id="50510365" to_objective_id="1285" />
+      <row enabled="True" from_objective_id="160" quest_id="50510365" to_objective_id="1588" />
       <row enabled="True" from_objective_id="170" quest_id="50510365" to_objective_id="171" />
       <row enabled="True" from_objective_id="171" quest_id="50510365" to_objective_id="180" />
       <row enabled="True" from_objective_id="180" quest_id="50510365" to_objective_id="181" />
@@ -2535,6 +2556,7 @@
       <row enabled="True" from_objective_id="1166" quest_id="50510365" to_objective_id="1168" />
       <row enabled="True" from_objective_id="1168" quest_id="50510365" to_objective_id="218" />
       <row enabled="True" from_objective_id="1538" quest_id="50510365" to_objective_id="84" />
+      <row enabled="True" from_objective_id="1588" quest_id="50510365" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="50514531" to_objective_id="6" />
       <row enabled="True" from_objective_id="6" quest_id="50514531" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="50933652" to_objective_id="5" />
@@ -2563,6 +2585,7 @@
       <row enabled="True" from_objective_id="16" quest_id="51186042" to_objective_id="1909" />
       <row enabled="True" from_objective_id="17" quest_id="51186042" to_objective_id="27" />
       <row enabled="True" from_objective_id="27" quest_id="51186042" to_objective_id="3" />
+      <row enabled="True" from_objective_id="27" quest_id="51186042" to_objective_id="2173" />
       <row enabled="True" from_objective_id="28" quest_id="51186042" to_objective_id="5" />
       <row enabled="True" from_objective_id="29" quest_id="51186042" to_objective_id="16" />
       <row enabled="True" from_objective_id="29" quest_id="51186042" to_objective_id="1620" />
@@ -2603,6 +2626,7 @@
       <row enabled="True" from_objective_id="15" quest_id="51375406" to_objective_id="259" />
       <row enabled="True" from_objective_id="2" quest_id="51547682" to_objective_id="5" />
       <row enabled="True" from_objective_id="2" quest_id="51547682" to_objective_id="19" />
+      <row enabled="True" from_objective_id="2" quest_id="51547682" to_objective_id="466" />
       <row enabled="True" from_objective_id="5" quest_id="51547682" to_objective_id="6" />
       <row enabled="False" from_objective_id="6" quest_id="51547682" to_objective_id="7" />
       <row enabled="False" from_objective_id="6" quest_id="51547682" to_objective_id="11" />
@@ -2759,6 +2783,7 @@
       <row enabled="True" from_objective_id="2" quest_id="52074508" to_objective_id="924" />
       <row enabled="True" from_objective_id="2" quest_id="52074508" to_objective_id="1011" />
       <row enabled="True" from_objective_id="4" quest_id="52074508" to_objective_id="3" />
+      <row enabled="True" from_objective_id="4" quest_id="52074508" to_objective_id="1135" />
       <row enabled="True" from_objective_id="6" quest_id="52074508" to_objective_id="7" />
       <row enabled="True" from_objective_id="9" quest_id="52074508" to_objective_id="7" />
       <row enabled="True" from_objective_id="10" quest_id="52074508" to_objective_id="7" />
@@ -2791,6 +2816,7 @@
       <row enabled="True" from_objective_id="93" quest_id="52074508" to_objective_id="119" />
       <row enabled="True" from_objective_id="93" quest_id="52074508" to_objective_id="436" />
       <row enabled="True" from_objective_id="93" quest_id="52074508" to_objective_id="437" />
+      <row enabled="True" from_objective_id="93" quest_id="52074508" to_objective_id="1101" />
       <row enabled="True" from_objective_id="98" quest_id="52074508" to_objective_id="668" />
       <row enabled="True" from_objective_id="115" quest_id="52074508" to_objective_id="194" />
       <row enabled="True" from_objective_id="119" quest_id="52074508" to_objective_id="521" />
@@ -2808,6 +2834,7 @@
       <row enabled="True" from_objective_id="2" quest_id="52241706" to_objective_id="56" />
       <row enabled="True" from_objective_id="2" quest_id="52241706" to_objective_id="75" />
       <row enabled="True" from_objective_id="5" quest_id="52241706" to_objective_id="3" />
+      <row enabled="True" from_objective_id="5" quest_id="52241706" to_objective_id="94" />
       <row enabled="True" from_objective_id="6" quest_id="52241706" to_objective_id="27" />
       <row enabled="True" from_objective_id="7" quest_id="52241706" to_objective_id="9" />
       <row enabled="True" from_objective_id="8" quest_id="52241706" to_objective_id="9" />
@@ -2880,6 +2907,7 @@
       <row enabled="True" from_objective_id="2" quest_id="52739772" to_objective_id="71" />
       <row enabled="True" from_objective_id="2" quest_id="52739772" to_objective_id="76" />
       <row enabled="True" from_objective_id="2" quest_id="52739772" to_objective_id="100" />
+      <row enabled="True" from_objective_id="2" quest_id="52739772" to_objective_id="1354" />
       <row enabled="True" from_objective_id="6" quest_id="52739772" to_objective_id="8" />
       <row enabled="True" from_objective_id="6" quest_id="52739772" to_objective_id="9" />
       <row enabled="True" from_objective_id="6" quest_id="52739772" to_objective_id="109" />
@@ -2906,6 +2934,7 @@
       <row enabled="True" from_objective_id="40" quest_id="52739772" to_objective_id="120" />
       <row enabled="True" from_objective_id="57" quest_id="52739772" to_objective_id="745" />
       <row enabled="True" from_objective_id="100" quest_id="52739772" to_objective_id="254" />
+      <row enabled="True" from_objective_id="109" quest_id="52739772" to_objective_id="1525" />
       <row enabled="True" from_objective_id="120" quest_id="52739772" to_objective_id="3" />
       <row enabled="True" from_objective_id="156" quest_id="52739772" to_objective_id="197" />
       <row enabled="True" from_objective_id="156" quest_id="52739772" to_objective_id="651" />
@@ -2936,6 +2965,7 @@
       <row enabled="True" from_objective_id="2" quest_id="52745351" to_objective_id="649" />
       <row enabled="True" from_objective_id="2" quest_id="52745351" to_objective_id="650" />
       <row enabled="True" from_objective_id="2" quest_id="52745351" to_objective_id="988" />
+      <row enabled="True" from_objective_id="2" quest_id="52745351" to_objective_id="1069" />
       <row enabled="True" from_objective_id="10" quest_id="52745351" to_objective_id="9" />
       <row enabled="True" from_objective_id="11" quest_id="52745351" to_objective_id="10" />
       <row enabled="True" from_objective_id="18" quest_id="52745351" to_objective_id="113" />
@@ -2971,6 +3001,7 @@
       <row enabled="True" from_objective_id="2" quest_id="53265134" to_objective_id="5" />
       <row enabled="True" from_objective_id="2" quest_id="53265134" to_objective_id="158" />
       <row enabled="True" from_objective_id="4" quest_id="53265134" to_objective_id="3" />
+      <row enabled="True" from_objective_id="4" quest_id="53265134" to_objective_id="188" />
       <row enabled="True" from_objective_id="5" quest_id="53265134" to_objective_id="6" />
       <row enabled="True" from_objective_id="5" quest_id="53265134" to_objective_id="63" />
       <row enabled="True" from_objective_id="5" quest_id="53265134" to_objective_id="135" />
@@ -3025,8 +3056,11 @@
       <row enabled="True" from_objective_id="228" quest_id="53358937" to_objective_id="35" />
       <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="19" />
       <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="59" />
+      <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="87" />
       <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="949" />
       <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="1794" />
+      <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="2084" />
+      <row enabled="True" from_objective_id="2" quest_id="53442887" to_objective_id="2141" />
       <row enabled="True" from_objective_id="19" quest_id="53442887" to_objective_id="3" />
       <row enabled="True" from_objective_id="23" quest_id="53442887" to_objective_id="24" />
       <row enabled="True" from_objective_id="25" quest_id="53442887" to_objective_id="26" />
@@ -3092,6 +3126,7 @@
       <row enabled="True" from_objective_id="499" quest_id="53858429" to_objective_id="500" />
       <row enabled="True" from_objective_id="499" quest_id="53858429" to_objective_id="732" />
       <row enabled="True" from_objective_id="500" quest_id="53858429" to_objective_id="735" />
+      <row enabled="True" from_objective_id="554" quest_id="53858429" to_objective_id="1163" />
       <row enabled="True" from_objective_id="2" quest_id="53962142" to_objective_id="7" />
       <row enabled="True" from_objective_id="2" quest_id="53962142" to_objective_id="9" />
       <row enabled="True" from_objective_id="2" quest_id="53962142" to_objective_id="263" />
@@ -3158,7 +3193,6 @@
       <row enabled="True" from_objective_id="128" quest_id="54489849" to_objective_id="133" />
       <row enabled="True" from_objective_id="142" quest_id="54489849" to_objective_id="185" />
       <row enabled="True" from_objective_id="2" quest_id="55067906" to_objective_id="4" />
-      <row enabled="True" from_objective_id="2" quest_id="55067906" to_objective_id="120" />
       <row enabled="True" from_objective_id="4" quest_id="55067906" to_objective_id="3" />
       <row enabled="True" from_objective_id="5" quest_id="55067906" to_objective_id="9" />
       <row enabled="True" from_objective_id="9" quest_id="55067906" to_objective_id="159" />
@@ -3381,6 +3415,7 @@
       <row enabled="True" from_objective_id="21" quest_id="60537812" to_objective_id="17" />
       <row enabled="False" from_objective_id="2" quest_id="61209157" to_objective_id="4" />
       <row enabled="False" from_objective_id="2" quest_id="61209157" to_objective_id="955" />
+      <row enabled="True" from_objective_id="2" quest_id="61209157" to_objective_id="1081" />
       <row enabled="True" from_objective_id="2" quest_id="61209157" to_objective_id="1130" />
       <row enabled="True" from_objective_id="2" quest_id="61209157" to_objective_id="1131" />
       <row enabled="True" from_objective_id="2" quest_id="61209157" to_objective_id="1147" />
@@ -3408,7 +3443,6 @@
       <row enabled="False" from_objective_id="1048" quest_id="61209157" to_objective_id="1028" />
       <row enabled="False" from_objective_id="1048" quest_id="61209157" to_objective_id="1038" />
       <row enabled="True" from_objective_id="1048" quest_id="61209157" to_objective_id="1324" />
-      <row enabled="True" from_objective_id="1068" quest_id="61209157" to_objective_id="1081" />
       <row enabled="True" from_objective_id="1068" quest_id="61209157" to_objective_id="1293" />
       <row enabled="True" from_objective_id="1119" quest_id="61209157" to_objective_id="3" />
       <row enabled="True" from_objective_id="1254" quest_id="61209157" to_objective_id="1266" />
@@ -3487,9 +3521,12 @@
       <row enabled="True" from_objective_id="2" quest_id="71400551" to_objective_id="1361" />
       <row enabled="True" from_objective_id="2" quest_id="71400551" to_objective_id="1425" />
       <row enabled="True" from_objective_id="4" quest_id="71400551" to_objective_id="3" />
+      <row enabled="True" from_objective_id="4" quest_id="71400551" to_objective_id="1537" />
       <row enabled="True" from_objective_id="626" quest_id="71400551" to_objective_id="627" />
       <row enabled="True" from_objective_id="626" quest_id="71400551" to_objective_id="1319" />
       <row enabled="True" from_objective_id="656" quest_id="71400551" to_objective_id="760" />
+      <row enabled="True" from_objective_id="763" quest_id="71400551" to_objective_id="1489" />
+      <row enabled="True" from_objective_id="763" quest_id="71400551" to_objective_id="1505" />
       <row enabled="True" from_objective_id="1260" quest_id="71400551" to_objective_id="1351" />
       <row enabled="True" from_objective_id="1276" quest_id="71400551" to_objective_id="1352" />
       <row enabled="True" from_objective_id="1290" quest_id="71400551" to_objective_id="1296" />
@@ -3636,6 +3673,8 @@
       <row enabled="True" from_objective_id="2" quest_id="72023007" to_objective_id="225" />
       <row enabled="True" from_objective_id="2" quest_id="72023007" to_objective_id="231" />
       <row enabled="True" from_objective_id="2" quest_id="72023007" to_objective_id="232" />
+      <row enabled="True" from_objective_id="2" quest_id="72023007" to_objective_id="388" />
+      <row enabled="True" from_objective_id="2" quest_id="72023007" to_objective_id="436" />
       <row enabled="True" from_objective_id="4" quest_id="72023007" to_objective_id="5" />
       <row enabled="True" from_objective_id="5" quest_id="72023007" to_objective_id="6" />
       <row enabled="True" from_objective_id="6" quest_id="72023007" to_objective_id="218" />
@@ -3646,6 +3685,7 @@
       <row enabled="True" from_objective_id="9" quest_id="72023007" to_objective_id="12" />
       <row enabled="True" from_objective_id="9" quest_id="72023007" to_objective_id="315" />
       <row enabled="True" from_objective_id="12" quest_id="72023007" to_objective_id="3" />
+      <row enabled="True" from_objective_id="12" quest_id="72023007" to_objective_id="412" />
       <row enabled="True" from_objective_id="218" quest_id="72023007" to_objective_id="279" />
       <row enabled="True" from_objective_id="220" quest_id="72023007" to_objective_id="222" />
       <row enabled="True" from_objective_id="224" quest_id="72023007" to_objective_id="227" />
@@ -3654,6 +3694,10 @@
       <row enabled="True" from_objective_id="229" quest_id="72023007" to_objective_id="12" />
       <row enabled="True" from_objective_id="231" quest_id="72023007" to_objective_id="240" />
       <row enabled="True" from_objective_id="232" quest_id="72023007" to_objective_id="240" />
+      <row enabled="True" from_objective_id="436" quest_id="72023007" to_objective_id="460" />
+      <row enabled="True" from_objective_id="460" quest_id="72023007" to_objective_id="461" />
+      <row enabled="True" from_objective_id="460" quest_id="72023007" to_objective_id="485" />
+      <row enabled="True" from_objective_id="461" quest_id="72023007" to_objective_id="229" />
       <row enabled="True" from_objective_id="156" quest_id="72289807" to_objective_id="153" />
       <row enabled="True" from_objective_id="170" quest_id="72289807" to_objective_id="169" />
       <row enabled="True" from_objective_id="176" quest_id="72289807" to_objective_id="175" />
@@ -3684,6 +3728,11 @@
       <row enabled="True" from_objective_id="574" quest_id="72289807" to_objective_id="573" />
       <row enabled="True" from_objective_id="604" quest_id="72289807" to_objective_id="605" />
       <row enabled="True" from_objective_id="610" quest_id="72289807" to_objective_id="611" />
+      <row enabled="True" from_objective_id="684" quest_id="72289807" to_objective_id="643" />
+      <row enabled="True" from_objective_id="685" quest_id="72289807" to_objective_id="647" />
+      <row enabled="True" from_objective_id="686" quest_id="72289807" to_objective_id="650" />
+      <row enabled="True" from_objective_id="722" quest_id="72289807" to_objective_id="721" />
+      <row enabled="True" from_objective_id="763" quest_id="72289807" to_objective_id="762" />
       <row enabled="True" from_objective_id="2" quest_id="73928580" to_objective_id="4" />
       <row enabled="True" from_objective_id="4" quest_id="73928580" to_objective_id="3" />
       <row enabled="True" from_objective_id="14" quest_id="73928580" to_objective_id="16" />
@@ -3728,13 +3777,14 @@
       <row enabled="True" from_objective_id="220" quest_id="81415024" to_objective_id="55" />
       <row enabled="True" from_objective_id="2" quest_id="81710071" to_objective_id="4" />
       <row enabled="True" from_objective_id="5" quest_id="81710071" to_objective_id="3" />
-      <row enabled="True" from_objective_id="2" quest_id="81939923" to_objective_id="11" />
       <row enabled="True" from_objective_id="31" quest_id="81939923" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="82479488" to_objective_id="4" />
       <row enabled="True" from_objective_id="5" quest_id="82479488" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="83096214" to_objective_id="4" />
       <row enabled="True" from_objective_id="5" quest_id="83096214" to_objective_id="3" />
+      <row enabled="True" from_objective_id="504" quest_id="83096214" to_objective_id="503" />
       <row enabled="True" from_objective_id="2" quest_id="83834617" to_objective_id="4" />
+      <row enabled="True" from_objective_id="2" quest_id="83834617" to_objective_id="259" />
       <row enabled="True" from_objective_id="4" quest_id="83834617" to_objective_id="6" />
       <row enabled="True" from_objective_id="4" quest_id="83834617" to_objective_id="7" />
       <row enabled="True" from_objective_id="4" quest_id="83834617" to_objective_id="8" />
@@ -3806,8 +3856,9 @@
       <row enabled="True" from_objective_id="5" quest_id="88181353" to_objective_id="11" />
       <row enabled="True" from_objective_id="18" quest_id="88181353" to_objective_id="20" />
       <row enabled="True" from_objective_id="23" quest_id="88181353" to_objective_id="25" />
-      <row enabled="True" from_objective_id="25" quest_id="88181353" to_objective_id="3" />
       <row enabled="True" from_objective_id="25" quest_id="88181353" to_objective_id="34" />
+      <row enabled="True" from_objective_id="25" quest_id="88181353" to_objective_id="123" />
+      <row enabled="True" from_objective_id="123" quest_id="88181353" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="88510676" to_objective_id="4" />
       <row enabled="True" from_objective_id="4" quest_id="88510676" to_objective_id="5" />
       <row enabled="True" from_objective_id="4" quest_id="88510676" to_objective_id="61" />
@@ -3818,7 +3869,6 @@
       <row enabled="True" from_objective_id="23" quest_id="88510676" to_objective_id="25" />
       <row enabled="True" from_objective_id="39" quest_id="88510676" to_objective_id="40" />
       <row enabled="True" from_objective_id="40" quest_id="88510676" to_objective_id="55" />
-      <row enabled="True" from_objective_id="50" quest_id="88510676" to_objective_id="93" />
       <row enabled="True" from_objective_id="55" quest_id="88510676" to_objective_id="34" />
       <row enabled="True" from_objective_id="62" quest_id="88510676" to_objective_id="105" />
       <row enabled="True" from_objective_id="71" quest_id="88510676" to_objective_id="105" />
@@ -3828,6 +3878,7 @@
       <row enabled="True" from_objective_id="2" quest_id="89281412" to_objective_id="10" />
       <row enabled="True" from_objective_id="2" quest_id="89281412" to_objective_id="220" />
       <row enabled="True" from_objective_id="4" quest_id="89281412" to_objective_id="3" />
+      <row enabled="True" from_objective_id="4" quest_id="89281412" to_objective_id="255" />
       <row enabled="True" from_objective_id="5" quest_id="89281412" to_objective_id="4" />
       <row enabled="True" from_objective_id="6" quest_id="89281412" to_objective_id="4" />
       <row enabled="True" from_objective_id="6" quest_id="89281412" to_objective_id="13" />
@@ -3844,7 +3895,9 @@
       <row enabled="True" from_objective_id="23" quest_id="90170774" to_objective_id="25" />
       <row enabled="True" from_objective_id="39" quest_id="90170774" to_objective_id="40" />
       <row enabled="True" from_objective_id="39" quest_id="90170774" to_objective_id="55" />
-      <row enabled="True" from_objective_id="40" quest_id="90170774" to_objective_id="3" />
+      <row enabled="True" from_objective_id="40" quest_id="90170774" to_objective_id="331" />
+      <row enabled="True" from_objective_id="40" quest_id="90170774" to_objective_id="354" />
+      <row enabled="True" from_objective_id="354" quest_id="90170774" to_objective_id="3" />
       <row enabled="True" from_objective_id="2" quest_id="90422865" to_objective_id="5" />
       <row enabled="True" from_objective_id="5" quest_id="90422865" to_objective_id="3" />
       <row enabled="True" from_objective_id="4" quest_id="91453416" to_objective_id="3" />
@@ -3910,6 +3963,121 @@
       <row enabled="True" from_objective_id="235" quest_id="100715427" to_objective_id="49" />
       <row enabled="True" from_objective_id="2" quest_id="101315855" to_objective_id="5" />
       <row enabled="True" from_objective_id="5" quest_id="101315855" to_objective_id="3" />
+      <row enabled="True" from_objective_id="2" quest_id="111582994" to_objective_id="4" />
+      <row enabled="True" from_objective_id="4" quest_id="111582994" to_objective_id="3" />
+      <row enabled="True" from_objective_id="5" quest_id="112285556" to_objective_id="3" />
+      <row enabled="True" from_objective_id="12" quest_id="112285556" to_objective_id="13" />
+      <row enabled="True" from_objective_id="13" quest_id="112285556" to_objective_id="101" />
+      <row enabled="True" from_objective_id="15" quest_id="112285556" to_objective_id="19" />
+      <row enabled="True" from_objective_id="18" quest_id="112285556" to_objective_id="12" />
+      <row enabled="True" from_objective_id="18" quest_id="112285556" to_objective_id="17" />
+      <row enabled="True" from_objective_id="18" quest_id="112285556" to_objective_id="25" />
+      <row enabled="True" from_objective_id="18" quest_id="112285556" to_objective_id="54" />
+      <row enabled="True" from_objective_id="18" quest_id="112285556" to_objective_id="57" />
+      <row enabled="True" from_objective_id="18" quest_id="112285556" to_objective_id="71" />
+      <row enabled="True" from_objective_id="19" quest_id="112285556" to_objective_id="14" />
+      <row enabled="True" from_objective_id="38" quest_id="112285556" to_objective_id="96" />
+      <row enabled="True" from_objective_id="41" quest_id="112285556" to_objective_id="45" />
+      <row enabled="True" from_objective_id="45" quest_id="112285556" to_objective_id="5" />
+      <row enabled="True" from_objective_id="51" quest_id="112285556" to_objective_id="20" />
+      <row enabled="True" from_objective_id="60" quest_id="112285556" to_objective_id="48" />
+      <row enabled="True" from_objective_id="80" quest_id="112285556" to_objective_id="208" />
+      <row enabled="True" from_objective_id="96" quest_id="112285556" to_objective_id="109" />
+      <row enabled="True" from_objective_id="113" quest_id="112285556" to_objective_id="41" />
+      <row enabled="True" from_objective_id="132" quest_id="112285556" to_objective_id="154" />
+      <row enabled="True" from_objective_id="4" quest_id="113306572" to_objective_id="3" />
+      <row enabled="False" from_objective_id="5" quest_id="113306572" to_objective_id="4" />
+      <row enabled="True" from_objective_id="2" quest_id="113732197" to_objective_id="5" />
+      <row enabled="True" from_objective_id="4" quest_id="113732197" to_objective_id="7" />
+      <row enabled="True" from_objective_id="5" quest_id="113732197" to_objective_id="9" />
+      <row enabled="True" from_objective_id="9" quest_id="113732197" to_objective_id="10" />
+      <row enabled="False" from_objective_id="10" quest_id="113732197" to_objective_id="14" />
+      <row enabled="True" from_objective_id="12" quest_id="113732197" to_objective_id="13" />
+      <row enabled="True" from_objective_id="16" quest_id="113732197" to_objective_id="3" />
+      <row enabled="True" from_objective_id="2" quest_id="114592969" to_objective_id="51" />
+      <row enabled="True" from_objective_id="2" quest_id="114592969" to_objective_id="53" />
+      <row enabled="True" from_objective_id="45" quest_id="114592969" to_objective_id="48" />
+      <row enabled="True" from_objective_id="46" quest_id="114592969" to_objective_id="48" />
+      <row enabled="True" from_objective_id="47" quest_id="114592969" to_objective_id="48" />
+      <row enabled="True" from_objective_id="48" quest_id="114592969" to_objective_id="3" />
+      <row enabled="True" from_objective_id="51" quest_id="114592969" to_objective_id="45" />
+      <row enabled="True" from_objective_id="51" quest_id="114592969" to_objective_id="46" />
+      <row enabled="True" from_objective_id="51" quest_id="114592969" to_objective_id="47" />
+      <row enabled="True" from_objective_id="5" quest_id="115824745" to_objective_id="3" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="6" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="9" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="10" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="11" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="14" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="16" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="18" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="19" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="20" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="22" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="23" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="24" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="25" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="54" />
+      <row enabled="True" from_objective_id="7" quest_id="115824745" to_objective_id="73" />
+      <row enabled="True" from_objective_id="10" quest_id="115824745" to_objective_id="41" />
+      <row enabled="True" from_objective_id="11" quest_id="115824745" to_objective_id="42" />
+      <row enabled="True" from_objective_id="2" quest_id="116933597" to_objective_id="4" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="6" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="15" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="766" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="768" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="769" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="770" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="771" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="772" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="774" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="775" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="776" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="777" />
+      <row enabled="True" from_objective_id="4" quest_id="116933597" to_objective_id="778" />
+      <row enabled="True" from_objective_id="2" quest_id="117119902" to_objective_id="7" />
+      <row enabled="True" from_objective_id="8" quest_id="117119902" to_objective_id="3" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="511" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="512" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="513" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="514" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="515" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="516" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="518" />
+      <row enabled="True" from_objective_id="520" quest_id="117638877" to_objective_id="519" />
+      <row enabled="True" from_objective_id="2" quest_id="119097074" to_objective_id="4" />
+      <row enabled="True" from_objective_id="4" quest_id="119097074" to_objective_id="6" />
+      <row enabled="True" from_objective_id="5" quest_id="119097074" to_objective_id="18" />
+      <row enabled="True" from_objective_id="6" quest_id="119097074" to_objective_id="290" />
+      <row enabled="True" from_objective_id="6" quest_id="119097074" to_objective_id="291" />
+      <row enabled="True" from_objective_id="6" quest_id="119097074" to_objective_id="292" />
+      <row enabled="True" from_objective_id="6" quest_id="119097074" to_objective_id="293" />
+      <row enabled="True" from_objective_id="7" quest_id="119097074" to_objective_id="3" />
+      <row enabled="True" from_objective_id="8" quest_id="119097074" to_objective_id="18" />
+      <row enabled="True" from_objective_id="9" quest_id="119097074" to_objective_id="18" />
+      <row enabled="True" from_objective_id="10" quest_id="119097074" to_objective_id="19" />
+      <row enabled="True" from_objective_id="11" quest_id="119097074" to_objective_id="19" />
+      <row enabled="True" from_objective_id="12" quest_id="119097074" to_objective_id="20" />
+      <row enabled="True" from_objective_id="13" quest_id="119097074" to_objective_id="19" />
+      <row enabled="True" from_objective_id="14" quest_id="119097074" to_objective_id="21" />
+      <row enabled="True" from_objective_id="15" quest_id="119097074" to_objective_id="21" />
+      <row enabled="True" from_objective_id="16" quest_id="119097074" to_objective_id="21" />
+      <row enabled="True" from_objective_id="17" quest_id="119097074" to_objective_id="21" />
+      <row enabled="True" from_objective_id="18" quest_id="119097074" to_objective_id="7" />
+      <row enabled="True" from_objective_id="19" quest_id="119097074" to_objective_id="7" />
+      <row enabled="True" from_objective_id="20" quest_id="119097074" to_objective_id="7" />
+      <row enabled="True" from_objective_id="21" quest_id="119097074" to_objective_id="7" />
+      <row enabled="True" from_objective_id="290" quest_id="119097074" to_objective_id="12" />
+      <row enabled="True" from_objective_id="291" quest_id="119097074" to_objective_id="5" />
+      <row enabled="True" from_objective_id="291" quest_id="119097074" to_objective_id="8" />
+      <row enabled="True" from_objective_id="291" quest_id="119097074" to_objective_id="9" />
+      <row enabled="True" from_objective_id="292" quest_id="119097074" to_objective_id="14" />
+      <row enabled="True" from_objective_id="292" quest_id="119097074" to_objective_id="15" />
+      <row enabled="True" from_objective_id="292" quest_id="119097074" to_objective_id="16" />
+      <row enabled="True" from_objective_id="292" quest_id="119097074" to_objective_id="17" />
+      <row enabled="True" from_objective_id="293" quest_id="119097074" to_objective_id="10" />
+      <row enabled="True" from_objective_id="293" quest_id="119097074" to_objective_id="11" />
+      <row enabled="True" from_objective_id="293" quest_id="119097074" to_objective_id="13" />
     </rows>
   </table>
 </database>

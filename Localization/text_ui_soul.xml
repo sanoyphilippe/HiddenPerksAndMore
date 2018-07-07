@@ -20,14 +20,14 @@
 <Row><Cell>buff_basichealth_potion_desc</Cell><Cell>You feel your strength returning, your health is gradually returning.</Cell><Cell>You feel your Strength returning, your health is gradually returning.</Cell></Row>
 <Row><Cell>buff_berserk_desc</Cell><Cell>The number of wounds you got enraged you, making your stamina regenerate four times faster.</Cell><Cell>The number of wounds you got enraged you, making your Stamina regenerate four times faster.</Cell></Row>
 <Row><Cell>buff_berserk_name</Cell><Cell>Berserker  </Cell><Cell>Berserk</Cell></Row>
-<Row><Cell>buff_berserk_potion_desc</Cell><Cell>You feel strength and rage rise inside you. You will crush anyone who stands in your path!&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Damage inflicted in melee combat +50%&lt;br/&gt;Defence -10%.</Cell><Cell>You feel strength and rage rise inside you. You will crush anyone who stands in your path!&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Damage inflicted in melee combat +50%&lt;br/&gt;Defence -10%.</Cell></Row>
+<Row><Cell>buff_berserk_potion_desc</Cell><Cell>You feel strength and rage rise inside you. You will crush anyone who stands in your path!&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Damage inflicted in melee combat is increased.&lt;br/&gt;Defence is decreased.</Cell><Cell>You feel strength and rage rise inside you. You will crush anyone who stands in your path!&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Damage inflicted in melee combat is increased.&lt;br/&gt;Defence is decreased.</Cell></Row>
 <Row><Cell>buff_berserker</Cell><Cell>Effects of Berserker potion</Cell><Cell>Bivoj's Rage Effect</Cell></Row>
 <Row><Cell>buff_blacksmithsson</Cell><Cell>Blacksmith's Son</Cell><Cell>Blacksmith's Son</Cell></Row>
-<Row><Cell>buff_blacksmithsson_desc</Cell><Cell>You've got a weapon you repaired yourself. You get a 10% attack bonus.</Cell><Cell>You've got a weapon you repaired yourself. You get a 10% attack bonus.</Cell></Row>
+<Row><Cell>buff_blacksmithsson_desc</Cell><Cell>You've got a weapon you repaired yourself. You get an attack bonus.</Cell><Cell>You've got a weapon you repaired yourself. You get an attack bonus.</Cell></Row>
 <Row><Cell>buff_bleeding</Cell><Cell>Bleeding</Cell><Cell>Bleeding</Cell></Row>
 <Row><Cell>buff_bleeding_desc</Cell><Cell>You are bleeding. Unless you treat your wounds with a bandage, you will slowly lose health and die, but since you have the Thickblooded perk, it will be slower. The bleeding will not stop on its own.</Cell><Cell>You are bleeding. Unless you treat your wounds with a bandage, you will slowly lose health and die, but since you have the Thickblooded perk, it will be slower. The bleeding will not stop on its own.</Cell></Row>
 <Row><Cell>buff_bleeding_normal_desc</Cell><Cell>You're bleeding. Unless you treat your wounds with a bandage, you'll slowly lose health and die. The bleeding won't stop on its own.</Cell><Cell>You're bleeding. Unless you bandage your wounds, you'll slowly lose health and die. The bleeding won't stop on its own.</Cell></Row>
-<Row><Cell>buff_blood_rush_desc</Cell><Cell>You killed your first foe and got an adrenalin rush, so stamina regenerates 25% faster and your attacks are 50% stronger.</Cell><Cell>You killed your first foe and got an adrenalin rush, so Stamina regenerates 25% faster and your attacks are 50% stronger.</Cell></Row>
+<Row><Cell>buff_blood_rush_desc</Cell><Cell>You killed your first foe and got an adrenalin rush, so stamina regenerates 20% faster and your attacks are stronger.</Cell><Cell>You killed your first foe and got an adrenalin rush, so stamina regenerates 20% faster and your attacks are stronger.</Cell></Row>
 <Row><Cell>buff_blood_rush_name</Cell><Cell>Blood rush</Cell><Cell>Blood Rush</Cell></Row>
 <Row><Cell>buff_botanicus_desc</Cell><Cell>You deal in herbs and get a better price for them.</Cell><Cell>You deal in herbs and get a better price for them.</Cell></Row>
 <Row><Cell>buff_burgess_desc</Cell><Cell>You're in a civilised area and therefore get a +1 bonus on Strength, Agility, Vitality and Speech.</Cell><Cell>You're in a civilised area and therefore get a +1 bonus on Strength, Agility, Vitality and Speech.</Cell></Row>
@@ -71,10 +71,10 @@
 <Row><Cell>buff_food_poisoning_desc</Cell><Cell>You've got food poisoning. Next time, be more careful what you eat.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Your Health is gradually depleting and so are your Strength, Agility and Vitality in proportion to the degree of poisoning.</Cell><Cell>You've got food poisoning. Next time, be more careful what you eat.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Your Health is gradually depleting and so are your Strength, Agility and Vitality in proportion to the degree of poisoning.</Cell></Row>
 <Row><Cell>buff_forester</Cell><Cell>Forester</Cell><Cell>Forester</Cell></Row>
 <Row><Cell>buff_forester_desc</Cell><Cell>You're in the woods. Your Conspicuousness and Visibility are lowered.</Cell><Cell>You're in the woods. Your Conspicuousness and Visibility are lowered.</Cell></Row>
-<Row><Cell>buff_fresh_cut</Cell><Cell>New Haircut</Cell><Cell>New Haircut</Cell></Row>
+<Row><Cell>buff_fresh_cut</Cell><Cell>New Haircut</Cell><Cell>Freshly Shorn </Cell></Row>
 <Row><Cell>buff_full_heal</Cell><Cell>Your health is renewed.</Cell><Cell>Your health is renewed.</Cell></Row>
 <Row><Cell>buff_full_heal_nm</Cell><Cell>Healing   </Cell><Cell>Healing   </Cell></Row>
-<Row><Cell>buff_furious_desc</Cell><Cell>Your maximum stamina is low, but not your strength.</Cell><Cell>Your maximum Stamina is low, but not your Strength.</Cell></Row>
+<Row><Cell>buff_furious_desc</Cell><Cell>You're wounded, but your attacks are stronger.</Cell><Cell>You're wounded, but your attacks are stronger.</Cell></Row>
 <Row><Cell>buff_general_ken</Cell><Cell>Ken</Cell><Cell>Ken</Cell></Row>
 <Row><Cell>buff_general_ken_desc</Cell><Cell>You have a +2 permanent bonus on charisma, but also a -2 strength penalty.</Cell><Cell>You have a +2 permanent bonus on Charisma, but also a -2 Strength penalty.</Cell></Row>
 <Row><Cell>buff_general_speech</Cell><Cell>Golden Tongue</Cell><Cell>Golden Tongue</Cell></Row>
@@ -92,9 +92,11 @@
 <Row><Cell>buff_half_heal_nm</Cell><Cell>Effects of Marigold decoction</Cell><Cell>Marigold Potion Effect</Cell></Row>
 <Row><Cell>buff_hangover</Cell><Cell>Hangover</Cell><Cell>Hangover</Cell></Row>
 <Row><Cell>buff_hangover_desc</Cell><Cell>You have a splitting headache and a feeling of great regret.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;A hangover reduces your Strength, Agility, Vitality, Speech and Charisma and makes you more conspicuous. The degree of these negative effects depends on how much you drank, and how long the hangover lasts is determined by your Drinking skill - the more experienced you are, the shorter the hangover. It will dissipate eventually or can be cured with a Marigold Decoction, Lazarus potion or Hair o' the Dog potion.</Cell><Cell>You have a splitting headache and a feeling of great regret.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;A hangover reduces your Strength, Agility, Vitality, Speech and Charisma and makes you more conspicuous. The degree of these negative effects depends on how much you drank, and how long the hangover lasts is determined by your Drinking skill - the more experienced you are, the shorter the hangover. It will dissipate eventually or can be cured with a Marigold Decoction, Lazarus potion or Hair o' the Dog potion.</Cell></Row>
+<Row><Cell>buff_HC_perk_nightmares</Cell><Cell>Nightmares</Cell><Cell>Nightmares</Cell></Row>
+<Row><Cell>buff_HC_perk_nightmares_desc</Cell><Cell>Your sleep was troubled by nightmares. You're shaken and your stats are temporarily reduced by 2.</Cell><Cell>Your sleep was troubled by nightmares. You're shaken and your stats are temporarily reduced by 2.</Cell></Row>
 <Row><Cell>buff_heavy_swing_desc</Cell><Cell>You're holding a melee weapon; your attacks are stronger.</Cell><Cell>You're holding a melee weapon; your attacks are stronger.</Cell></Row>
 <Row><Cell>buff_heavy_tip</Cell><Cell>Tin Opener</Cell><Cell>Tin Opener</Cell></Row>
-<Row><Cell>buff_heavy_tip_desc</Cell><Cell>You've got a weapon you sharpened yourself, which causes 15% more damage to an opponents armour.</Cell><Cell>You've got a weapon you sharpened yourself, which causes 15% more damage to an opponents armour.</Cell></Row>
+<Row><Cell>buff_heavy_tip_desc</Cell><Cell>You've got a weapon you sharpened yourself, which causes 15% more damage to an opponent's armour.</Cell><Cell>You've got a weapon you sharpened yourself, which causes 15% more damage to an opponent's armour.</Cell></Row>
 <Row><Cell>buff_highborn_desc</Cell><Cell>You talk to a noble and it increases your eloquence.</Cell><Cell>You talk to a noble and it increases your eloquence.</Cell></Row>
 <Row><Cell>buff_horseman</Cell><Cell>Effects of Aesop potion</Cell><Cell>Aesop Potion Effect</Cell></Row>
 <Row><Cell>buff_horseman_potion_desc</Cell><Cell>You feel as if you'd been born in the saddle and raised by dogs.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Dogs won't bark at you.&lt;br/&gt;Horsemanship +5.</Cell><Cell>You feel as if you'd been born in the saddle and raised by dogs.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Dogs won't bark at you.&lt;br/&gt;Horsemanship +5.</Cell></Row>
@@ -162,6 +164,8 @@
 <Row><Cell>buff_poisoning</Cell><Cell>Effects of Poison</Cell><Cell>Effects of Poison</Cell></Row>
 <Row><Cell>buff_poor_hearing</Cell><Cell>Poor Hearing</Cell><Cell>Poor Hearing</Cell></Row>
 <Row><Cell>buff_poor_vision</Cell><Cell>Poor Vision</Cell><Cell>Poor Vision</Cell></Row>
+<Row><Cell>buff_pribyslavitz_beer</Cell><Cell>Pribyslavitz Boar effect</Cell><Cell>Pribyslavitz Boar effect</Cell></Row>
+<Row><Cell>buff_pribyslavitz_beer_desc</Cell><Cell>That Pribyslavitz Boar has a bite to it and no mistake. You're hands are immediately steadier. And if you want to play dice, you just know they're going to fall your way.</Cell><Cell>That Pribyslavitz Boar has a bite to it and no mistake. You're hands are immediately steadier. And if you want to play dice, you just know they're going to fall your way.</Cell></Row>
 <Row><Cell>buff_proper_diet_desc</Cell><Cell>You have a +1 bonus on vitality and agility due to five days of healthy eating without overeating or going hungry.</Cell><Cell>You have a +1 bonus on Vitality and Agility due to five days of healthy eating without overeating or going hungry.</Cell></Row>
 <Row><Cell>buff_proper_diet_name</Cell><Cell>Proper diet</Cell><Cell>Balanced Diet</Cell></Row>
 <Row><Cell>buff_rain_man</Cell><Cell>Rain Man</Cell><Cell>Rain Man</Cell></Row>
@@ -169,7 +173,7 @@
 <Row><Cell>buff_reading_quality</Cell><Cell>Reading Spot</Cell><Cell>Reading Spot</Cell></Row>
 <Row><Cell>buff_reading_quality_desc</Cell><Cell>You are in a good place to read a book. Reading will be faster and you will learn more from your books.</Cell><Cell>You are in a good place to read a book. Reading will be faster and you will learn more from your books.</Cell></Row>
 <Row><Cell>buff_really_slow_movement</Cell><Cell>Really Slow Movement</Cell><Cell>Really Slow Movement</Cell></Row>
-<Row><Cell>buff_recovery_renegade_desc</Cell><Cell>You just got out of jail, but being with the Renegade Guild means the penalties to your Strength, Agility and Vitality are 50% less. The longer you've been in jail, the more severe the penalties.</Cell><Cell>You just got out of jail, but being with the Renegade Guild means the penalties to your Strength, Agility and Vitality are 50% less. The longer you've been in jail, the more severe the penalties.</Cell></Row>
+<Row><Cell>buff_recovery_renegade_desc</Cell><Cell>You just got out of jail, but being with the Renegade Guild means the penalties to your Strength, Agility and Vitality are 20% less. </Cell><Cell>You just got out of jail, but being with the Renegade Guild means the penalties to your Strength, Agility and Vitality are 20% less. </Cell></Row>
 <Row><Cell>buff_remove_injuries</Cell><Cell>Remove Injuries</Cell><Cell>Remove Injuries</Cell></Row>
 <Row><Cell>buff_resistance</Cell><Cell>Resistance</Cell><Cell>Resistance</Cell></Row>
 <Row><Cell>buff_resistance_desc</Cell><Cell>You get a permanent +2 bonus on vitality.</Cell><Cell>You get a permanent +2 bonus on Vitality.</Cell></Row>
@@ -214,7 +218,25 @@
 <Row><Cell>buff_wormwood_spirit</Cell><Cell>Effects of Artemisia potion</Cell><Cell>Artemisia Potion Effect</Cell></Row>
 <Row><Cell>buff_wormwood_spirit_desc</Cell><Cell>The bitter taste of Artemisia will put strength in your blood, but also bewilder your eyes with strange visions.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Strength +5&lt;br/&gt;Warfare +5.</Cell><Cell>The bitter taste of Artemisia will put strength in your blood, but also bewilder your eyes with strange visions.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Strength +5&lt;br/&gt;Warfare +5.</Cell></Row>
 <Row><Cell>drinking_habit_desc</Cell><Cell>You're drunk and your Bow skill is improved by +2.</Cell><Cell>You're drunk and your Bow skill is improved by +2.</Cell></Row>
-<Row><Cell>fresh_cut_desc</Cell><Cell>You've used the bathhouse services.</Cell><Cell>You've used the bathhouse services.</Cell></Row>
+<Row><Cell>fresh_cut_desc</Cell><Cell>You've used the bathhouse services. The bathwenches' skill with scissors and razor has made a new man of you. Your charisma is temporarily increased by 1.</Cell><Cell>You've used the bathhouse services. The bathwenches' skill with scissors and razor has made a new man of you. Your charisma is temporarily increased by 1.</Cell></Row>
+<Row><Cell>HC_perk_brittle_bones</Cell><Cell>Brittle Bones</Cell><Cell>Brittle Bones</Cell></Row>
+<Row><Cell>HC_perk_brittle_bones_desc</Cell><Cell>Ever since you were little, stairs and ladders have been your worst enemies. All it takes is a little fall and your bones break with an awful crack. You suffer much worse injuries than other when you fall.</Cell><Cell>Ever since you were little, stairs and ladders have been your worst enemies. All it takes is a little fall and your bones break with an awful crack. You suffer much worse injuries than other when you fall.</Cell></Row>
+<Row><Cell>HC_perk_claustrophobic</Cell><Cell>Claustrophobia</Cell><Cell>Claustrophobia</Cell></Row>
+<Row><Cell>HC_perk_claustrophobic_desc</Cell><Cell>When you were a child, you got your head stuck inside a pail and couldn't get it off all day, until your father took an axe to it. Ever since then, you've had a fear of enclosed spaces. Wearing a helmet with the visor down makes you so anxious that your attacks are weakened.</Cell><Cell>When you were a child, you got your head stuck inside a pail and couldn't get it off all day, until your father took an axe to it. Ever since then, you've had a fear of enclosed spaces. Wearing a helmet with the visor down makes you so anxious that your attacks are weakened.</Cell></Row>
+<Row><Cell>HC_perk_consumption</Cell><Cell>Consumption</Cell><Cell>Consumption</Cell></Row>
+<Row><Cell>HC_perk_consumption_desc</Cell><Cell>You once caught a nasty chill and ended up with a persistent cough. Many thought you'd never survive, but eventually you healed. Nevertheless, since that time, you don't breathe very well and your stamina regenerates more slowly.</Cell><Cell>You once caught a nasty chill and ended up with a persistent cough. Many thought you'd never survive, but eventually you healed. Nevertheless, since that time, you don't breathe very well and your stamina regenerates more slowly.</Cell></Row>
+<Row><Cell>HC_perk_haemophilia</Cell><Cell>Haemophilia</Cell><Cell>Haemophilia</Cell></Row>
+<Row><Cell>HC_perk_haemophilia_desc</Cell><Cell>Like your father and his father before him, you are afflicted with the family curse. All it takes is a scratch and you start to bleed like a stuck pig. Once it starts, the bleeding is faster and is harder to stop.</Cell><Cell>Like your father and his father before him, you are afflicted with the family curse. All it takes is a scratch and you start to bleed like a stuck pig. Once it starts, the bleeding is faster and is harder to stop.</Cell></Row>
+<Row><Cell>HC_perk_nightmares</Cell><Cell>Nightmares</Cell><Cell>Nightmares</Cell></Row>
+<Row><Cell>HC_perk_nightmares_desc</Cell><Cell>Since childhood you have been troubled by a recurring nightmare in which you are being chased by a colourful jester. Although the dream is repeated night after night, is still frightens you as much as when you were little. You awake so shook up that all your stats are lowered for a while.</Cell><Cell>Since childhood you have been troubled by a recurring nightmare in which you are being chased by a colourful jester. Although the dream is repeated night after night, it still frightens you as much as when you were little. You awake so shook up that all your stats are lowered for a while.</Cell></Row>
+<Row><Cell>HC_perk_numbskull</Cell><Cell>Numbskull</Cell><Cell>Numbskull</Cell></Row>
+<Row><Cell>HC_perk_numbskull_desc</Cell><Cell>Your mother dropped you on the head as a baby. She kissed it better and the bump soon faded, but ever since then, you're a little slow at getting the hang of things. This lowers your acquisition of experience.</Cell><Cell>Your mother dropped you on the head as a baby. She kissed it better and the bump soon faded, but ever since then, you're a little slow at getting the hang of things. This lowers your acquisition of experience.</Cell></Row>
+<Row><Cell>HC_perk_shakes</Cell><Cell>Shakes</Cell><Cell>Shakes</Cell></Row>
+<Row><Cell>HC_perk_shakes_desc</Cell><Cell>When you were too little to know any better, you fell into the well. It was hours before they heard you crying and got you out. Ever since then, you get the shakes from time to time, as if you were back again in the dark, chilly well. Obviously, that's not good for archery, pickpocketing or lockpicking.  </Cell><Cell>When you were too little to know any better, you fell into the well. It was hours before they heard you crying and got you out. Ever since then, you get the shakes from time to time, as if you were back again in the dark, chilly well. Obviously, that's not good for archery, pickpocketing or lockpicking.  </Cell></Row>
+<Row><Cell>HC_perk_sleepwalker</Cell><Cell>Sonambulant</Cell><Cell>Somnambulant</Cell></Row>
+<Row><Cell>HC_perk_sleepwalker_desc</Cell><Cell>You've always been a restless sleeper, sometimes so much so that you get up from your bed and go walking. It's not unusual for you to wake up somewhere else than where you went to bed.</Cell><Cell>You've always been a restless sleeper, sometimes so much so that you get up from your bed and go walking. It's not unusual for you to wake up somewhere else than where you went to bed.</Cell></Row>
+<Row><Cell>HC_perk_tapeworm</Cell><Cell>Tapeworm</Cell><Cell>Tapeworm</Cell></Row>
+<Row><Cell>HC_perk_tapeworm_desc</Cell><Cell>When you've got an appetite, you'll eat anything you can get your hands on. Folk say you eat enough for two. It's like you have a visitor in your guts who's eating you out of house and home. You get hungry faster, so you have to eat more often.</Cell><Cell>When you've got an appetite, you'll eat anything you can get your hands on. Folk say you eat enough for two. It's like you have a visitor in your guts who's eating you out of house and home. You get hungry faster, so you have to eat more often.</Cell></Row>
 <Row><Cell>char_10_uiName</Cell><Cell>Sir Robard </Cell><Cell>Sir Robard</Cell></Row>
 <Row><Cell>char_100_uiName</Cell><Cell>Punch</Cell><Cell>Punch</Cell></Row>
 <Row><Cell>char_101_uiName</Cell><Cell>Prokop</Cell><Cell>Procopius</Cell></Row>
@@ -258,7 +280,7 @@
 <Row><Cell>char_153_uiName</Cell><Cell>Mason</Cell><Cell>Mason</Cell></Row>
 <Row><Cell>char_154_uiName</Cell><Cell>Father Simon</Cell><Cell>Father Simon</Cell></Row>
 <Row><Cell>char_16_uiName</Cell><Cell>Nicholas</Cell><Cell>Nicholas</Cell></Row>
-<Row><Cell>char_160_uiName</Cell><Cell>Citcator Stibor</Cell><Cell>Citcator Stibor</Cell></Row>
+<Row><Cell>char_160_uiName</Cell><Cell>Citcator Stibor</Cell><Cell>Circator Stibor</Cell></Row>
 <Row><Cell>char_162_uiName</Cell><Cell>Novice Antonius</Cell><Cell>Novice Antonius</Cell></Row>
 <Row><Cell>char_163_uiName</Cell><Cell>Novice Jodok</Cell><Cell>Novice Jodok</Cell></Row>
 <Row><Cell>char_164_uiName</Cell><Cell>Novice Siskin</Cell><Cell>Novice Siskin</Cell></Row>
@@ -331,7 +353,6 @@
 <Row><Cell>char_24_uiName</Cell><Cell>Lady Stephanie</Cell><Cell>Lady Stephanie</Cell></Row>
 <Row><Cell>char_240_uiName</Cell><Cell>Stablemaster</Cell><Cell>Stablemaster</Cell></Row>
 <Row><Cell>char_242_uiName</Cell><Cell>Farmer Bauer</Cell><Cell>Farmer Bauer</Cell></Row>
-<Row><Cell>char_243_uiName</Cell><Cell>Quarry master</Cell><Cell>Quarry master</Cell></Row>
 <Row><Cell>char_245_uiName</Cell><Cell>Farmhand</Cell><Cell>Farmhand</Cell></Row>
 <Row><Cell>char_246_uiName</Cell><Cell>Farmhand</Cell><Cell>Farmhand</Cell></Row>
 <Row><Cell>char_247_uiName</Cell><Cell>Skalitz Priest</Cell><Cell>Skalitz Priest</Cell></Row>
@@ -350,7 +371,7 @@
 <Row><Cell>char_259_uiName</Cell><Cell>Mark Loukota</Cell><Cell>Mark Loukota</Cell></Row>
 <Row><Cell>char_26_uiName</Cell><Cell>Henry</Cell><Cell>Henry</Cell></Row>
 <Row><Cell>char_261_uiName</Cell><Cell>Milota</Cell><Cell>Milota</Cell></Row>
-<Row><Cell>char_262_uiName</Cell><Cell>Dorota</Cell><Cell>Dorota</Cell></Row>
+<Row><Cell>char_262_uiName</Cell><Cell>Dorota</Cell><Cell>Dorothy</Cell></Row>
 <Row><Cell>char_263_uiName</Cell><Cell>Cuman</Cell><Cell>Cuman</Cell></Row>
 <Row><Cell>char_265_uiName</Cell><Cell>Vatzek</Cell><Cell>Vatzek</Cell></Row>
 <Row><Cell>char_266_uiName</Cell><Cell>Vagrant</Cell><Cell>Vagrant</Cell></Row>
@@ -400,7 +421,7 @@
 <Row><Cell>char_315_uiName</Cell><Cell>Enemy</Cell><Cell>Enemy</Cell></Row>
 <Row><Cell>char_316_uiName</Cell><Cell>Soldier</Cell><Cell>Soldier</Cell></Row>
 <Row><Cell>char_317_uiName</Cell><Cell>Messenger</Cell><Cell>Messenger</Cell></Row>
-<Row><Cell>char_318_uiName</Cell><Cell>Patient</Cell><Cell>Patient</Cell></Row>
+<Row><Cell>char_318_uiName</Cell><Cell>Thomas</Cell><Cell>Thomas</Cell></Row>
 <Row><Cell>char_319_uiName</Cell><Cell>Spearman</Cell><Cell>Spearman</Cell></Row>
 <Row><Cell>char_320_uiName</Cell><Cell>Soldier</Cell><Cell>Soldier</Cell></Row>
 <Row><Cell>char_321_uiName</Cell><Cell>Talmberg soldier</Cell><Cell>Talmberg soldier</Cell></Row>
@@ -606,11 +627,53 @@
 <Row><Cell>char_55_uiName</Cell><Cell>Johanka</Cell><Cell>Johanka</Cell></Row>
 <Row><Cell>char_550_uiName</Cell><Cell>Tournament Master</Cell><Cell>Tournament Master</Cell></Row>
 <Row><Cell>char_551_uiName</Cell><Cell>Martin Viezek</Cell><Cell>Martin Viezek</Cell></Row>
+<Row><Cell>char_553_uiName</Cell><Cell>Guard Pazdera</Cell><Cell>Guard Pazdera</Cell></Row>
+<Row><Cell>char_554_uiName</Cell><Cell>Marius</Cell><Cell>Marius</Cell></Row>
+<Row><Cell>char_556_uiName</Cell><Cell>Custodian's Scribe</Cell><Cell>Custodian's Scribe</Cell></Row>
 <Row><Cell>char_56_uiName</Cell><Cell>Janek</Cell><Cell>Janek</Cell></Row>
+<Row><Cell>char_563_uiName</Cell><Cell>Refugee</Cell><Cell>Refugee</Cell></Row>
+<Row><Cell>char_564_uiName</Cell><Cell>Refugee</Cell><Cell>Refugee</Cell></Row>
+<Row><Cell>char_565_uiName</Cell><Cell>Refugee</Cell><Cell>Refugee</Cell></Row>
+<Row><Cell>char_566_uiName</Cell><Cell>Refugee</Cell><Cell>Refugee</Cell></Row>
+<Row><Cell>char_567_uiName</Cell><Cell>Refugee</Cell><Cell>Refugee</Cell></Row>
+<Row><Cell>char_568_uiName</Cell><Cell>Sir Kuno</Cell><Cell>Sir Kuno</Cell></Row>
+<Row><Cell>char_569_uiName</Cell><Cell>Jakey</Cell><Cell>Jakey</Cell></Row>
 <Row><Cell>char_57_uiName</Cell><Cell>Jaroslav</Cell><Cell>Jaroslav</Cell></Row>
+<Row><Cell>char_572_uiName</Cell><Cell>Woodcutter</Cell><Cell>Woodcutter</Cell></Row>
+<Row><Cell>char_573_uiName</Cell><Cell>Woodcutter</Cell><Cell>Woodcutter</Cell></Row>
+<Row><Cell>char_574_uiName</Cell><Cell>Woodcutter</Cell><Cell>Woodcutter</Cell></Row>
+<Row><Cell>char_575_uiName</Cell><Cell>Woodcutter</Cell><Cell>Woodcutter</Cell></Row>
+<Row><Cell>char_576_uiName</Cell><Cell>Rope-maker</Cell><Cell>Rope-maker</Cell></Row>
+<Row><Cell>char_577_uiName</Cell><Cell>The Stone</Cell><Cell>The Stone</Cell></Row>
+<Row><Cell>char_578_uiName</Cell><Cell>Sir Hagen Zul</Cell><Cell>Sir Hagen Zul</Cell></Row>
+<Row><Cell>char_579_uiName</Cell><Cell>Stephan</Cell><Cell>Stephan</Cell></Row>
 <Row><Cell>char_58_uiName</Cell><Cell>Bianca</Cell><Cell>Bianca</Cell></Row>
+<Row><Cell>char_581_uiName</Cell><Cell>Jirka Bearman</Cell><Cell>Jirka Bearman</Cell></Row>
+<Row><Cell>char_582_uiName</Cell><Cell>Arena Master</Cell><Cell>Arena Master</Cell></Row>
+<Row><Cell>char_583_uiName</Cell><Cell>Baker Silvester</Cell><Cell>Baker Silvester</Cell></Row>
+<Row><Cell>char_584_uiName</Cell><Cell>Butcher Kochwurst</Cell><Cell>Butcher Kochwurst</Cell></Row>
+<Row><Cell>char_585_uiName</Cell><Cell>Butcher Brisket</Cell><Cell>Butcher Brisket</Cell></Row>
+<Row><Cell>char_586_uiName</Cell><Cell>Merchant</Cell><Cell>Merchant</Cell></Row>
+<Row><Cell>char_588_uiName</Cell><Cell>Butcher</Cell><Cell>Butcher</Cell></Row>
+<Row><Cell>char_589_uiName</Cell><Cell>Baker</Cell><Cell>Baker</Cell></Row>
 <Row><Cell>char_59_uiName</Cell><Cell>Istvan Toth</Cell><Cell>Istvan Toth</Cell></Row>
+<Row><Cell>char_591_uiName</Cell><Cell>Swordsmith Fink</Cell><Cell>Swordsmith Fink</Cell></Row>
+<Row><Cell>char_593_uiName</Cell><Cell>Derelict</Cell><Cell>Derelict</Cell></Row>
+<Row><Cell>char_594_uiName</Cell><Cell>Derelict</Cell><Cell>Derelict</Cell></Row>
+<Row><Cell>char_595_uiName</Cell><Cell>Derelict</Cell><Cell>Derelict</Cell></Row>
+<Row><Cell>char_596_uiName</Cell><Cell>Derelict</Cell><Cell>Derelict</Cell></Row>
+<Row><Cell>char_597_uiName</Cell><Cell>Agro</Cell><Cell>Agro</Cell></Row>
+<Row><Cell>char_598_uiName</Cell><Cell>Shadowmere</Cell><Cell>Shadowmere</Cell></Row>
+<Row><Cell>char_599_uiName</Cell><Cell>Shadowfax</Cell><Cell>Shadowfax</Cell></Row>
 <Row><Cell>char_6_uiName</Cell><Cell>Timmy</Cell><Cell>Timmy</Cell></Row>
+<Row><Cell>char_600_uiName</Cell><Cell>Prachosh</Cell><Cell>Malis</Cell></Row>
+<Row><Cell>char_601_uiName</Cell><Cell>Prachosh's wife</Cell><Cell>Harridan</Cell></Row>
+<Row><Cell>char_602_uiName</Cell><Cell>Prachosh</Cell><Cell>Malis</Cell></Row>
+<Row><Cell>char_603_uiName</Cell><Cell>Prachosh's wife</Cell><Cell>Harridan</Cell></Row>
+<Row><Cell>char_604_uiName</Cell><Cell>Villager Lida</Cell><Cell>Lida</Cell></Row>
+<Row><Cell>char_605_uiName</Cell><Cell>Veteran</Cell><Cell>Veteran</Cell></Row>
+<Row><Cell>char_606_uiName</Cell><Cell>Bishop Jaroslav</Cell><Cell>Bishop Jaroslav</Cell></Row>
+<Row><Cell>char_607_uiName</Cell><Cell>Swordsmith's wife</Cell><Cell>Swordsmith's wife</Cell></Row>
 <Row><Cell>char_62_uiName</Cell><Cell>Margaret</Cell><Cell>Margaret</Cell></Row>
 <Row><Cell>char_63_uiName</Cell><Cell>Rattay Parish Priest</Cell><Cell>Rattay Parish Priest</Cell></Row>
 <Row><Cell>char_64_uiName</Cell><Cell>Apolena's mother</Cell><Cell>Apolena's mother</Cell></Row>
@@ -656,6 +719,7 @@
 <Row><Cell>perk_art_admirer_desc</Cell><Cell>The first time you first look at fresco, cross or wayside shrine, your Charisma will increase temporarily by +2.</Cell><Cell>The first time you look at a fresco, cross or wayside shrine, your Charisma will increase temporarily by +2.</Cell></Row>
 <Row><Cell>perk_art_admirer_name</Cell><Cell>Art Admirer </Cell><Cell>Art Connoisseur </Cell></Row>
 <Row><Cell>perk_ascetic_desc</Cell><Cell>You'll last 30% longer without food, but as soon as you get hungry, the effects will be 20% worse.</Cell><Cell>You'll last 30% longer without food, but as soon as you get hungry, the effects will be 20% worse.</Cell></Row>
+<Row><Cell>perk_ascetic_hardcore_desc</Cell><Cell>You'll last 15% longer without food, but as soon as you get hungry, the effects will be 20% worse.</Cell><Cell>You'll last 15% longer without food, but as soon as you get hungry, the effects will be 20% worse.</Cell></Row>
 <Row><Cell>perk_ascetic_name</Cell><Cell>Ascetic</Cell><Cell>Ascetic</Cell></Row>
 <Row><Cell>perk_avid_reader_desc</Cell><Cell>Your level of study of the book you've read most of will advance automatically while sleeping or skipping time.</Cell><Cell>Your level of study of the book you've read most of will advance automatically while sleeping or skipping time.</Cell></Row>
 <Row><Cell>perk_avid_reader_name</Cell><Cell>Avid reader</Cell><Cell>Avid Reader</Cell></Row>
@@ -667,7 +731,7 @@
 <Row><Cell>perk_beerbibber_name</Cell><Cell>Beerbibber</Cell><Cell>Beer Bibber</Cell></Row>
 <Row><Cell>perk_berserk_desc</Cell><Cell>As soon as your Health falls to a minimum, you go berserk and your Stamina regenerates four times faster.</Cell><Cell>As soon as your Health falls to a minimum, you go berserk and your Stamina regenerates four times faster.</Cell></Row>
 <Row><Cell>perk_berserk_name</Cell><Cell>Berserk</Cell><Cell>Berserk</Cell></Row>
-<Row><Cell>perk_blacksmithsson_desc</Cell><Cell>Weapons you repair with a repair kit have a 10% stronger attack, until they get too damaged.</Cell><Cell>Weapons you repair with a repair kit have a 10% stronger attack, until they get too damaged.</Cell></Row>
+<Row><Cell>perk_blacksmithsson_desc</Cell><Cell>Weapons you repair with a repair kit have a stronger attack until they get too damaged.</Cell><Cell>Weapons you repair with a repair kit have a stronger attack, until they get too damaged.</Cell></Row>
 <Row><Cell>perk_blacksmithsson_name</Cell><Cell>Blacksmith's son</Cell><Cell>Blacksmith's Son</Cell></Row>
 <Row><Cell>perk_blood_rush_desc</Cell><Cell>After beating your first opponent, the power of your attacks will increase for a while and your stamina will regenerate faster.</Cell><Cell>After beating your first opponent, the power of your attacks will increase for a while and your stamina will regenerate faster.</Cell></Row>
 <Row><Cell>perk_blood_rush_name</Cell><Cell>Blood rush</Cell><Cell>Blood Rush</Cell></Row>
@@ -711,8 +775,8 @@
 <Row><Cell>perk_dread_steed_name</Cell><Cell>Dread steed</Cell><Cell>Dread Steed</Cell></Row>
 <Row><Cell>perk_dreadful_desc</Cell><Cell>Foes will be more likely to flee from combat with you. The ones who do fight you will be less determined.</Cell><Cell>Foes will be more likely to flee from combat with you. The ones who do fight you will be less determined.</Cell></Row>
 <Row><Cell>perk_dreadfull_name</Cell><Cell>Dreadful</Cell><Cell>Dreadful</Cell></Row>
-<Row><Cell>perk_drinking_habit_desc</Cell><Cell>Under the influence of alcohol, your hand will shake 25% less and your Bow skill is higher by +2, but when sober your hand will shake 25% more.</Cell><Cell>Under the influence of alcohol, your hand will shake 25% less and your Bow skill is higher by +2, but when sober your hand will shake 25% more.</Cell></Row>
-<Row><Cell>perk_drinking_habit_name</Cell><Cell>Drinking habit</Cell><Cell>Drinking Habit</Cell></Row>
+<!-- <Row><Cell>perk_drinking_habit_desc</Cell><Cell>Under the influence of alcohol, your hand will shake 25% less and your Bow skill is higher by +2, but when sober your hand will shake 25% more.</Cell><Cell>Under the influence of alcohol, your hand will shake 25% less and your Bow skill is higher by +2, but when sober your hand will shake 25% more.</Cell></Row> -->
+<!-- <Row><Cell>perk_drinking_habit_name</Cell><Cell>Drinking habit</Cell><Cell>Drinking Habit</Cell></Row> -->
 <Row><Cell>perk_drunk_desc</Cell><Cell>The benefits of alcohol last twice as long, and unless you drink yourself to oblivion, you suffer no negative effects. But once sober, your hangover will also last twice as long.</Cell><Cell>The benefits of alcohol last twice as long, and unless you drink yourself to oblivion, you suffer no negative effects. But once sober, your hangover will also last twice as long.</Cell></Row>
 <Row><Cell>perk_drunk_name</Cell><Cell>Drunk</Cell><Cell>Drunk</Cell></Row>
 <Row><Cell>perk_easy_way_out_desc</Cell><Cell>The movement of the cursor in a pickpocketing victim's inventory will be twice as fast.</Cell><Cell>The movement of the cursor in a pickpocketing victim's inventory will be twice as fast.</Cell></Row>
@@ -753,8 +817,8 @@
 <Row><Cell>perk_haggle_reputation_name</Cell><Cell>Amicable Customer</Cell><Cell>Amiable Customer</Cell></Row>
 <Row><Cell>perk_haggle_secondChance_desc</Cell><Cell>When a trader loses patience with you during haggling, you get one more chance to make another offer.</Cell><Cell>When a trader loses patience with you during haggling, you get one more chance to make another offer.</Cell></Row>
 <Row><Cell>perk_haggle_secondChance_name</Cell><Cell>Final Offer</Cell><Cell>Final Offer</Cell></Row>
-<Row><Cell>perk_headcrakcer_desc</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell></Row>
-<Row><Cell>perk_headcrakcer_name</Cell><Cell>Headcracker</Cell><Cell>Headcracker</Cell></Row>
+<!-- <Row><Cell>perk_headcrakcer_desc</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell><Cell>You have a 10% greater chance of knocking out an opponent with a blow to the head.</Cell></Row> -->
+<!-- <Row><Cell>perk_headcrakcer_name</Cell><Cell>Headcracker</Cell><Cell>Headcracker</Cell></Row> -->
 <!-- <Row><Cell>perk_heavy_swing_desc</Cell><Cell>Your attacks cause greater damage, but cost you 10% more Stamina. Applies only to force weapons.</Cell><Cell>Your attacks cause greater damage, but cost you 10% more Stamina. Applies only to weapons that require strength to wield.</Cell></Row> -->
 <Row><Cell>perk_heavy_swing_name</Cell><Cell>Heavy swing </Cell><Cell>Heavy Swing </Cell></Row>
 <Row><Cell>perk_heavy_tip_desc</Cell><Cell>A weapon you've sharpened yourself will cause 15% greater damage to your opponent's armour and equipment.</Cell><Cell>A weapon you've sharpened yourself will cause 15% greater damage to your opponent's armour and equipment.</Cell></Row>
@@ -763,15 +827,15 @@
 <Row><Cell>perk_heavyduty_pony_name</Cell><Cell>Heavyduty pony</Cell><Cell>Heavy Duty Pony</Cell></Row>
 <Row><Cell>perk_hidden_pockets_desc</Cell><Cell>When arrested and searched, you'll keep some of the items in your inventory..</Cell><Cell>When arrested and searched, you'll keep some of the stolen items in your inventory.</Cell></Row>
 <Row><Cell>perk_hidden_pockets_name</Cell><Cell>Hidden pockets</Cell><Cell>Hidden Pockets</Cell></Row>
-<Row><Cell>perk_highborn_desc</Cell><Cell>Increases your Speech level by +3 when talking to nobles and wealthy people. You can't have the Lowborn perk simultaneously.</Cell><Cell>Increases your Speech level by +3 when talking to nobles and wealthy people. You can't have the Lowborn perk simultaneously.</Cell></Row>
-<Row><Cell>perk_highborn_name</Cell><Cell>Highborn</Cell><Cell>Highborn</Cell></Row>
+<!-- <Row><Cell>perk_highborn_desc</Cell><Cell>Increases your Speech level by +3 when talking to nobles and wealthy people. You can't have the Lowborn perk simultaneously.</Cell><Cell>Increases your Speech level by +3 when talking to nobles and wealthy people. You can't have the Lowborn perk simultaneously.</Cell></Row> -->
+<!-- <Row><Cell>perk_highborn_name</Cell><Cell>Highborn</Cell><Cell>Highborn</Cell></Row> -->
 <Row><Cell>perk_horsenip_desc</Cell><Cell>If your horse has enough fragrant herbs in its saddlebag, it will shy less.</Cell><Cell>If your horse has enough fragrant herbs in its saddlebag, it will shy less.</Cell></Row>
 <Row><Cell>perk_horsenip_name</Cell><Cell>Horsenip</Cell><Cell>Horsenip</Cell></Row>
 <Row><Cell>perk_human_dustbin_desc</Cell><Cell>You can dispel hunger with anything. You won't suffer from eating poisoned or spoiled food, but neither will you have any positive effect from it. Does not apply to alcohol.</Cell><Cell>You can dispel hunger with anything. You won't suffer from eating poisoned or spoiled food, but neither will you have any positive effect from it. Does not apply to alcohol.</Cell></Row>
 <Row><Cell>perk_human_dustbin_name</Cell><Cell>Human dustbin</Cell><Cell>Human Dustbin</Cell></Row>
-<Row><Cell>perk_hunting_permit_desc</Cell><Cell>Sir Divish has appointed you Master Huntsman, giving you exclusive rights to hunt in his woods, so any meat you get from game won't be identified as stolen.</Cell><Cell>Sir Divish has appointed you Master Huntsman, giving you exclusive rights to hunt in his woods, so any meat you get from game won't be identified as stolen.</Cell></Row>
+<Row><Cell>perk_hunting_permit_desc</Cell><Cell>You've been given permission to hunt in the woods, so any meat you get from game won't be identified as stolen.</Cell><Cell>You've been given permission to hunt in the woods, so any meat you get from game won't be identified as stolen.</Cell></Row>
 <Row><Cell>perk_hunting_permit_name</Cell><Cell>Gamekeeper Rules the Woods</Cell><Cell>Gamekeeper Rules the Woods</Cell></Row>
-<Row><Cell>perk_huntsman_desc</Cell><Cell>You'll cause wild animals 20% more damage.</Cell><Cell>You'll cause wild animals 20% more damage.</Cell></Row>
+<Row><Cell>perk_huntsman_desc</Cell><Cell>You'll cause wild animals more damage.</Cell><Cell>You cause wild animals more damage.</Cell></Row>
 <Row><Cell>perk_huntsman_name</Cell><Cell>Huntsman</Cell><Cell>Huntsman</Cell></Row>
 <Row><Cell>perk_chain_strike_desc</Cell><Cell>Each blow in an uninterrupted chain will hurt your opponent more than the previous one. Any interruption will cancel the bonus.</Cell><Cell>Each blow in an uninterrupted chain will hurt your opponent more than the previous one. Any interruption will cancel the bonus.</Cell></Row>
 <Row><Cell>perk_chain_strike_name</Cell><Cell>Chain strike</Cell><Cell>Chain Strike</Cell></Row>
@@ -780,8 +844,9 @@
 <Row><Cell>perk_infamous_desc</Cell><Cell>With a low Reputation in a given area, you also get a +1 bonus on Strength, Speech, Agility and Vitality. But your Reputation rises much faster than usual and the penalties for serving jail time are less.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Local Hero perk.</Cell><Cell>With a low Reputation in a given area, you also get a +1 bonus on Strength, Speech, Agility and Vitality. But your Reputation rises much faster than usual and the penalties for serving jail time are less.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Local Hero perk.</Cell></Row>
 <Row><Cell>perk_infamous_name</Cell><Cell>Infamous</Cell><Cell>Infamous</Cell></Row>
 <Row><Cell>perk_insomniac_desc</Cell><Cell>Increases the time you can do without sleep. Your rest level falls one quarter more slowly.</Cell><Cell>Increases the time you can do without sleep. Your Energy level falls one quarter more slowly.</Cell></Row>
+<Row><Cell>perk_insomniac_hardcore_desc</Cell><Cell>Increases the time you can do without sleep. Your rest level falls 15 % more slowly.</Cell><Cell>Increases the time you can do without sleep. Your Energy level falls 15% more slowly.</Cell></Row>
 <Row><Cell>perk_insomniac_name</Cell><Cell>Insomniac</Cell><Cell>Insomniac</Cell></Row>
-<Row><Cell>perk_intimidating_posture</Cell><Cell>Golem</Cell><Cell>Golem</Cell></Row>
+<!-- <Row><Cell>perk_intimidating_posture</Cell><Cell>Golem</Cell><Cell>Golem</Cell></Row> -->
 <!-- <Row><Cell>perk_intimidating_posture_desc</Cell><Cell>Your armour makes a 30% more frightening impression in dialogues.</Cell><Cell>Your armour makes a 30% more frightening impression in dialogues.</Cell></Row> -->
 <Row><Cell>perk_item_expert_1_desc</Cell><Cell>Reveals stats for half the items in a robbery victim's purse.</Cell><Cell>Reveals stats for half the items in a pickpocketing victim's purse.</Cell></Row>
 <Row><Cell>perk_item_expert_1_name</Cell><Cell>Item expert I</Cell><Cell>Item Expert I</Cell></Row>
@@ -793,7 +858,7 @@
 <Row><Cell>perk_juggler_name</Cell><Cell>Juggler</Cell><Cell>Juggler</Cell></Row>
 <Row><Cell>perk_ken_desc</Cell><Cell>You're handsome and charismatic, but you haven't built up your strength. Charisma +2, Strength -2.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Golden Tongue, Juggler or Cloak and Dagger.</Cell><Cell>You're handsome and charismatic, but you haven't built up your strength. Charisma +2, Strength -2.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with the perks Brute, Golden Tongue, Juggler or Cloak and Dagger.</Cell></Row>
 <Row><Cell>perk_ken_name</Cell><Cell>Ken</Cell><Cell>Ken</Cell></Row>
-<Row><Cell>perk_knigh_in_shining_desc</Cell><Cell>In sunny weather, the glint of your armour will dazzle everyone so much, you'll be taken for a noble knight and have a +4 Charisma bonus.</Cell><Cell>In sunny weather, the glint of your armour will dazzle everyone so much, you'll be taken for a noble knight and have a +4 Charisma bonus.</Cell></Row>
+<Row><Cell>perk_knigh_in_shining_desc</Cell><Cell>In sunny weather, the glint of your armour will dazzle everyone so much, you'll be taken for a noble knight and get a Charisma bonus. The more plate armour components you wear, the higher the bonus.</Cell><Cell>In sunny weather, the glint of your armour will dazzle everyone so much, you'll be taken for a noble knight and get a Charisma bonus. The more plate armour components you wear, the higher the bonus.</Cell></Row>
 <Row><Cell>perk_knigh_in_shining_name</Cell><Cell>Knight in shining armor</Cell><Cell>Knight in Shining Armour</Cell></Row>
 <Row><Cell>perk_knight_desc</Cell><Cell>You get a 15% damage bonus in mounted combat with both range and melee weapons.</Cell><Cell>You get a 15% damage bonus in mounted combat with both range and melee weapons.</Cell></Row>
 <Row><Cell>perk_knight_name</Cell><Cell>Knight</Cell><Cell>Knight</Cell></Row>
@@ -801,8 +866,8 @@
 <Row><Cell>perk_last_gasp_name</Cell><Cell>Last gasp</Cell><Cell>Last Gasp</Cell></Row>
 <Row><Cell>perk_lasting_lockpicks_desc</Cell><Cell>Your lockpicks will be more durable and last twice as long.</Cell><Cell>Your lockpicks will be more durable and last twice as long.</Cell></Row>
 <Row><Cell>perk_lasting_lockpicks_name</Cell><Cell>Lasting lock picks</Cell><Cell>Lasting Lockpicks</Cell></Row>
-<Row><Cell>perk_leg_day_desc</Cell><Cell>Herb-picking activity will add experience to your Strength stat too.</Cell><Cell>Herb-picking activity will add experience to your Strength stat too.</Cell></Row>
-<Row><Cell>perk_leg_day_name</Cell><Cell>Leg day</Cell><Cell>Leg Day</Cell></Row>
+<!-- <Row><Cell>perk_leg_day_desc</Cell><Cell>Herb-picking activity will add experience to your Strength stat too.</Cell><Cell>Herb-picking activity will add experience to your Strength stat too.</Cell></Row> -->
+<!-- <Row><Cell>perk_leg_day_name</Cell><Cell>Leg day</Cell><Cell>Leg Day</Cell></Row> -->
 <Row><Cell>perk_letailleur_desc</Cell><Cell>Every item of clothing you're wearing that you've repaired yourself adds 0.5 to Charisma, up to a maximum bonus of +2. Doesn't apply to armour.</Cell><Cell>Every item of clothing you're wearing that you've repaired yourself adds 0.5 to Charisma, up to a maximum bonus of +2. Doesn't apply to armour.</Cell></Row>
 <Row><Cell>perk_letailleur_name</Cell><Cell>Le Tailleur</Cell><Cell>Saville Row</Cell></Row>
 <Row><Cell>perk_light_armor_desc</Cell><Cell>If you're not wearing plate armour, it will be 50% easier for you to dodge strikes in combat.</Cell><Cell>If you're not wearing plate armour, it will be 50% easier for you to dodge strikes in combat.</Cell></Row>
@@ -820,8 +885,8 @@
 <Row><Cell>perk_lockpickers_knack</Cell><Cell>The Lock Picker's Knack</Cell><Cell>Lockpicker's Knack</Cell></Row>
 <Row><Cell>perk_loose_tongue_desc</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell><Cell>When drunk, you get a 50% bonus on Speech and Charisma, when hungover, these stats drop by 50%.</Cell></Row>
 <Row><Cell>perk_loose_tongue_name</Cell><Cell>Loose tongue</Cell><Cell>Loose Tongue</Cell></Row>
-<Row><Cell>perk_lowborn_desc</Cell><Cell>Your Speech stat will rise by +3 when you talk to commoners. You can't have the perk Highborn at the same time.</Cell><Cell>Your Speech stat will rise by +3 when you talk to commoners. You can't have the perk Highborn at the same time.</Cell></Row>
-<Row><Cell>perk_lowborn_name</Cell><Cell>Lowborn</Cell><Cell>Lowborn</Cell></Row>
+<!-- <Row><Cell>perk_lowborn_desc</Cell><Cell>Your Speech stat will rise by +3 when you talk to commoners. You can't have the perk Highborn at the same time.</Cell><Cell>Your Speech stat will rise by +3 when you talk to commoners. You can't have the perk Highborn at the same time.</Cell></Row> -->
+<!-- <Row><Cell>perk_lowborn_name</Cell><Cell>Lowborn</Cell><Cell>Lowborn</Cell></Row> -->
 <Row><Cell>perk_luck_of_the_drunk_desc</Cell><Cell>It'll be 30% easier for you to open locks when drunk, but it will also be 30% noisier.</Cell><Cell>It'll be 30% easier for you to open locks when drunk, but it will also be 30% noisier.</Cell></Row>
 <Row><Cell>perk_luck_of_the_drunk_name</Cell><Cell>Luck of the drunk</Cell><Cell>Luck of the Drunk</Cell></Row>
 <Row><Cell>perk_lucky_thief</Cell><Cell>Lucky Thief</Cell><Cell>Lucky Thief</Cell></Row>
@@ -871,7 +936,8 @@
 <Row><Cell>perk_repairman_name</Cell><Cell>Repairman</Cell><Cell>Repairman</Cell></Row>
 <Row><Cell>perk_resistance_desc</Cell><Cell>You've collected such a quantity of poisonous herbs or nettles that your Vitality is permanently increased by +2.</Cell><Cell>You've collected such a quantity of poisonous herbs or nettles that your Vitality is permanently increased by +2.</Cell></Row>
 <Row><Cell>perk_resistance_name</Cell><Cell>Resistance</Cell><Cell>Resistance</Cell></Row>
-<Row><Cell>perk_revenant_desc</Cell><Cell>Your health will regenerate gradually.</Cell><Cell>Your health will regenerate gradually.</Cell></Row>
+<Row><Cell>perk_revenant_desc</Cell><Cell>Your health will regenerate gradually. Does not apply during combat.</Cell><Cell>Your health will regenerate gradually. Does not apply during combat.</Cell></Row>
+<Row><Cell>perk_revenant_hardcore_desc</Cell><Cell>When you sleep, your health regenerates faster.</Cell><Cell>When you sleep, your health regenerates faster.</Cell></Row>
 <Row><Cell>perk_revenant_name</Cell><Cell>Revenant</Cell><Cell>Revenant</Cell></Row>
 <Row><Cell>perk_riders_off_the_storm_desc</Cell><Cell>Your horse will be extremely skittish in storms, but will shy less in any other weather.</Cell><Cell>Your horse will be extremely skittish in storms, but will shy less in any other weather.</Cell></Row>
 <Row><Cell>perk_riders_off_the_storm_name</Cell><Cell>Rider on the storm</Cell><Cell>Rider on the storm</Cell></Row>
@@ -896,11 +962,11 @@
 <Row><Cell>perk_salty_name</Cell><Cell>Salty</Cell><Cell>Salty</Cell></Row>
 <Row><Cell>perk_savage_desc</Cell><Cell>In the wilds you have a +1 bonus on Strength, Agility, Vitality and Speech.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Burgher perk.</Cell><Cell>In the wilds you have a +1 bonus on Strength, Agility, Vitality and Speech.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Can't be combined with Burgher perk.</Cell></Row>
 <Row><Cell>perk_savage_name</Cell><Cell>Savage</Cell><Cell>Savage</Cell></Row>
-<!-- <Row><Cell>perk_scout_1_desc</Cell><Cell>Slightly increases the range of Fast Travel and also the chances of Evading by 10%.</Cell><Cell>Slightly increases the sight distance of Fast Travel and also the chances of Evading by 10%.</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_1_desc</Cell><Cell>Increases the sight distance of Fast Travel, so you notice events on the way sooner, and your chances of evading are also increased by 10%.</Cell><Cell>Increases the sight distance of Fast Travel, so you notice events on the way sooner, and your chances of evading are also increased by 10%.</Cell></Row> -->
 <!-- <Row><Cell>perk_scout_1_name</Cell><Cell>Scout I</Cell><Cell>Scout I</Cell></Row> -->
-<!-- <Row><Cell>perk_scout_2_desc</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by 20%.</Cell><Cell>Increases the sight distance of Fast Travel and also the chances of evading by another 10%.</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_2_desc</Cell><Cell>Increases the sight distance of Fast Travel, so you notice events on the way sooner, and your chances of evading are also increased by 20%.</Cell><Cell>Increases the sight distance of Fast Travel, so you notice events on the way sooner, and your chances of evading are also increased by 20%.</Cell></Row> -->
 <!-- <Row><Cell>perk_scout_2_name</Cell><Cell>Scout II</Cell><Cell>Scout II</Cell></Row> -->
-<!-- <Row><Cell>perk_scout_3_desc</Cell><Cell>Greatly increases the sight distance of Fast Travel and also the chances of evading by 30%.</Cell><Cell>Greatly increases the sight distance of Fast Travel and also increases the chances of evading by another 10%.</Cell></Row> -->
+<!-- <Row><Cell>perk_scout_3_desc</Cell><Cell>Increases the sight distance of Fast Travel, so you notice events on the way sooner, and your chances of evading are also increased by 30%.</Cell><Cell>Increases the sight distance of Fast Travel, so you notice events on the way sooner, and your chances of evading are also increased by 30%.</Cell></Row> -->
 <!-- <Row><Cell>perk_scout_3_name</Cell><Cell>Scout III</Cell><Cell>Scout III</Cell></Row> -->
 <Row><Cell>perk_secret_pockets_desc</Cell><Cell>When looting corpses, you have a chance of finding more money.</Cell><Cell>When looting corpses, you'll find more money.</Cell></Row>
 <Row><Cell>perk_secret_pockets_name</Cell><Cell>Secret pockets</Cell><Cell>Secret Pockets</Cell></Row>
@@ -934,7 +1000,7 @@
 <Row><Cell>perk_strong_thighs_desc</Cell><Cell>Increases your chances of staying in the saddle if an opponent tries to dehorse you.</Cell><Cell>Increases your chances of staying in the saddle if an opponent tries to unhorse you.</Cell></Row>
 <Row><Cell>perk_strong_thighs_name</Cell><Cell>Strong thighs</Cell><Cell>Strong Thighs</Cell></Row>
 <!-- <Row><Cell>perk_stronghold_desc</Cell><Cell>Blocking an opponent's strikes with your shield will will cost you 30% less stamina.</Cell><Cell>Blocking an opponent's strikes with your shield will cost you 30% less stamina.</Cell></Row> -->
-<Row><Cell>perk_stronghold_name</Cell><Cell>Stronghold </Cell><Cell>Stronghold </Cell></Row>
+<!-- <Row><Cell>perk_stronghold_name</Cell><Cell>Stronghold </Cell><Cell>Stronghold </Cell></Row> -->
 <Row><Cell>perk_supremely_attentive_desc</Cell><Cell>It doesn't matter to you where you read, you get a learning bonus anywhere you read.</Cell><Cell>It doesn't matter to you where you read, you get a learning bonus anywhere you read.</Cell></Row>
 <Row><Cell>perk_supremely_attentive_name</Cell><Cell>Supremely attentive </Cell><Cell>Swot</Cell></Row>
 <Row><Cell>perk_tanner_desc</Cell><Cell>You're able to skin dead animals.</Cell><Cell>You're able to skin dead animals.</Cell></Row>
@@ -943,9 +1009,10 @@
 <Row><Cell>perk_taunt_name</Cell><Cell>Taunt</Cell><Cell>Taunt</Cell></Row>
 <Row><Cell>perk_test_metaperk</Cell><Cell>Metaperk test</Cell><Cell>Metaperk Test</Cell></Row>
 <Row><Cell>perk_thickblooded_desc</Cell><Cell>You bleed slower.</Cell><Cell>You bleed slower.</Cell></Row>
+<Row><Cell>perk_thickblooded_hardcore_desc</Cell><Cell>The chances of a foe's strikes causing you to bleed are reduced.</Cell><Cell>The chances of a foe's strikes causing you to bleed are reduced.</Cell></Row>
 <Row><Cell>perk_thickblooded_name</Cell><Cell>Thickblooded</Cell><Cell>Thickblooded</Cell></Row>
-<Row><Cell>perk_tight_grip_desc</Cell><Cell>Your Stamina regeneration will  not slow down in combat, even on the weapon backswing.</Cell><Cell>Your Stamina regeneration will  not slow down in combat, even on the weapon backswing.</Cell></Row>
-<Row><Cell>perk_tight_grip_name</Cell><Cell>Tight grip</Cell><Cell>Tight Grip</Cell></Row>
+<!-- <Row><Cell>perk_tight_grip_desc</Cell><Cell>Your Stamina regeneration will  not slow down in combat, even on the weapon backswing.</Cell><Cell>Your Stamina regeneration will  not slow down in combat, even on the weapon backswing.</Cell></Row> -->
+<!-- <Row><Cell>perk_tight_grip_name</Cell><Cell>Tight grip</Cell><Cell>Tight Grip</Cell></Row> -->
 <Row><Cell>perk_trial_and_error_desc</Cell><Cell>When brewing you can make one extra mistake without affecting the result.</Cell><Cell>When brewing you can make one extra mistake without affecting the result.</Cell></Row>
 <Row><Cell>perk_trial_and_error_name</Cell><Cell>Trial and error</Cell><Cell>Trial and Error</Cell></Row>
 <Row><Cell>perk_troubadour_desc</Cell><Cell>You have a 50% higher Reputation when you talk to women and a +1 Speech bonus, so you can persuade them more easily, and you can avail of bathwenches' services for free.</Cell><Cell>You have a 50% higher Reputation when you talk to women and a +1 Speech bonus, so you can persuade them more easily, and you can avail of bathwenches' services for free.</Cell></Row>
@@ -1003,7 +1070,7 @@
 <Row><Cell>perk_water_of_life_desc</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you. The stronger the healing effect, the drunker it will make you.</Cell><Cell>Healing potions will heal you 50% more, but will also intoxicate you. The stronger the healing effect, the drunker it will make you.</Cell></Row>
 <Row><Cell>perk_water_of_life_name</Cell><Cell>Water of life</Cell><Cell>Water of Life</Cell></Row>
 <!-- <Row><Cell>perk_weapon_cruncher_desc</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell><Cell>If you beat your opponent in a clinch, you'll damage his weapon 15% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell></Row> -->
-<Row><Cell>perk_weapon_cruncher_name</Cell><Cell>Weapon-cruncher</Cell><Cell>Weapon-Cruncher</Cell></Row>
+<!-- <Row><Cell>perk_weapon_cruncher_name</Cell><Cell>Weapon-cruncher</Cell><Cell>Weapon-Cruncher</Cell></Row> -->
 <Row><Cell>perk_well_maintained_desc</Cell><Cell>The attire you have on will suffer 15% less wear and tear.</Cell><Cell>The attire you have on will suffer 15% less wear and tear.</Cell></Row>
 <Row><Cell>perk_well_maintained_name</Cell><Cell>Well maintained</Cell><Cell>Well Groomed</Cell></Row>
 <Row><Cell>perk_well_worn_desc</Cell><Cell>You're able to put on your armour so cleverly that it's real weight is one third lighter than it actually weighs in the inventory.</Cell><Cell>You're able to put on your armour so cleverly that it's real weight is one third lighter than it actually weighs in the inventory.</Cell></Row>
@@ -1040,6 +1107,7 @@
 <Row><Cell>soul_ui_name_herbalist</Cell><Cell>Herbalist</Cell><Cell>Herbalist</Cell></Row>
 <Row><Cell>soul_ui_name_herold</Cell><Cell>Herald</Cell><Cell>Herald</Cell></Row>
 <Row><Cell>soul_ui_name_horse</Cell><Cell>Horse</Cell><Cell>Horse</Cell></Row>
+<Row><Cell>soul_ui_name_horsetrader</Cell><Cell>Stablemaster</Cell><Cell>Stablemaster</Cell></Row>
 <Row><Cell>soul_ui_name_innkeeper</Cell><Cell>Innkeeper</Cell><Cell>Innkeeper</Cell></Row>
 <Row><Cell>soul_ui_name_lumberjack</Cell><Cell>Woodcutter</Cell><Cell>Woodcutter</Cell></Row>
 <Row><Cell>soul_ui_name_mason</Cell><Cell>Stonemason</Cell><Cell>Stonemason</Cell></Row>
@@ -1052,6 +1120,7 @@
 <Row><Cell>soul_ui_name_miner</Cell><Cell>Miner</Cell><Cell>Miner</Cell></Row>
 <Row><Cell>soul_ui_name_monk</Cell><Cell>Monk</Cell><Cell>Monk</Cell></Row>
 <Row><Cell>soul_ui_name_poacher</Cell><Cell>Poacher</Cell><Cell>Poacher</Cell></Row>
+<Row><Cell>soul_ui_name_priest</Cell><Cell>Priest</Cell><Cell>Priest</Cell></Row>
 <Row><Cell>soul_ui_name_q_execExec_executionersCrewMember</Cell><Cell>Executioner's henchman</Cell><Cell>Executioner's henchman</Cell></Row>
 <Row><Cell>soul_ui_name_q_fightClub_fighter</Cell><Cell>Brawler</Cell><Cell>Brawler</Cell></Row>
 <Row><Cell>soul_ui_name_q_racingAndBetting_racer</Cell><Cell>Racer</Cell><Cell>Racer</Cell></Row>
@@ -1399,6 +1468,7 @@
 <Row><Cell>ui_fac_counterfeiters_workshop</Cell><Cell>Counterfeiting workshop mercenaries </Cell><Cell>Counterfeiting workshop mercenaries </Cell></Row>
 <Row><Cell>ui_fac_cumanCaptive</Cell><Cell>Cuman captive</Cell><Cell>Cuman captive</Cell></Row>
 <Row><Cell>ui_fac_cumans</Cell><Cell>Cumans</Cell><Cell>Cumans</Cell></Row>
+<Row><Cell>ui_fac_erik</Cell><Cell>Erik prisioner</Cell><Cell>Erik prisoner</Cell></Row>
 <Row><Cell>ui_fac_eventBandits</Cell><Cell>Event bandits</Cell><Cell>Event bandits</Cell></Row>
 <Row><Cell>ui_fac_eventCivilians</Cell><Cell>Event civilians</Cell><Cell>Event civilians</Cell></Row>
 <Row><Cell>ui_fac_eventCumans</Cell><Cell>Event Cumans</Cell><Cell>Event Cumans</Cell></Row>
@@ -1407,6 +1477,7 @@
 <Row><Cell>ui_fac_gingerBandits</Cell><Cell>Neuhof Ginger bandits</Cell><Cell>Neuhof Ginger's bandits</Cell></Row>
 <Row><Cell>ui_fac_krizovatka_villagers</Cell><Cell>Crossroads villagers</Cell><Cell>Crossroads villagers</Cell></Row>
 <Row><Cell>ui_fac_kunes_rattay</Cell><Cell>Kunesh</Cell><Cell>Kunesh</Cell></Row>
+<Row><Cell>ui_fac_kunoband</Cell><Cell>Kuno's band</Cell><Cell>Kuno's band</Cell></Row>
 <Row><Cell>ui_fac_ledecko_bandits</Cell><Cell>Ledetchko bandits</Cell><Cell>Ledetchko bandits</Cell></Row>
 <Row><Cell>ui_fac_ledecko_villagers</Cell><Cell>Ledetchko villagers</Cell><Cell>Ledetchko villagers</Cell></Row>
 <Row><Cell>ui_fac_machs_bandits</Cell><Cell>Morcock's gang</Cell><Cell>Morcock's gang</Cell></Row>
@@ -1419,6 +1490,7 @@
 <Row><Cell>ui_fac_placeholder_friend</Cell><Cell>placeholder Friend</Cell><Cell>Friend</Cell></Row>
 <Row><Cell>ui_fac_player</Cell><Cell>Player's faction</Cell><Cell>Player's faction</Cell></Row>
 <Row><Cell>ui_fac_players_duelists</Cell><Cell>Duelists</Cell><Cell>Duelists</Cell></Row>
+<Row><Cell>ui_fac_prib_villagers</Cell><Cell>Pribyslavitz villagers</Cell><Cell>Pribyslavitz villagers</Cell></Row>
 <Row><Cell>ui_fac_pribyslavice_bandits</Cell><Cell>Pribyslavitz bandits</Cell><Cell>Pribyslavitz bandits</Cell></Row>
 <Row><Cell>ui_fac_pribyslavice_cumans</Cell><Cell>Pribyslavitz Cumans</Cell><Cell>Pribyslavitz Cumans</Cell></Row>
 <Row><Cell>ui_fac_q_awakening_dream</Cell><Cell>Awakening (dream)</Cell><Cell>Awakening (dream)</Cell></Row>
@@ -1562,6 +1634,11 @@
 <Row><Cell>ui_tutorial_name_combat_advance</Cell><Cell>Combat: Advanced Techniques</Cell><Cell>Combat: Advanced Techniques</Cell></Row>
 <Row><Cell>ui_tutorial_name_combat_basic</Cell><Cell>Combat - Basic Controls</Cell><Cell>Basic Combat</Cell></Row>
 <Row><Cell>ui_tutorial_name_dice</Cell><Cell>Dice</Cell><Cell>Dice</Cell></Row>
+<Row><Cell>ui_tutorial_name_hardcore_combat_advance</Cell><Cell>Combat: Advanced Techniques</Cell><Cell>Combat: Advanced Techniques</Cell></Row>
+<Row><Cell>ui_tutorial_name_hardcore_combat_basic</Cell><Cell>Combat: Basics</Cell><Cell>Combat: Basics</Cell></Row>
+<Row><Cell>ui_tutorial_name_hardcore_horse</Cell><Cell>Horse</Cell><Cell>Horse</Cell></Row>
+<Row><Cell>ui_tutorial_name_hardcore_injury</Cell><Cell>Injury and Healing</Cell><Cell>Injury and Healing</Cell></Row>
+<Row><Cell>ui_tutorial_name_hardcore_mode</Cell><Cell>Hardcore Mode</Cell><Cell>Hardcore Mode</Cell></Row>
 <Row><Cell>ui_tutorial_name_horse</Cell><Cell>Horse</Cell><Cell>Horse</Cell></Row>
 <Row><Cell>ui_tutorial_name_injury</Cell><Cell>Wounds and Healing</Cell><Cell>Wounds and Healing</Cell></Row>
 <Row><Cell>ui_tutorial_name_inventory</Cell><Cell>Items and Equipment</Cell><Cell>Items and Equipment</Cell></Row>
@@ -1578,6 +1655,7 @@
 <Row><Cell>ui_tutorial_name_stealth</Cell><Cell>Stealth</Cell><Cell>Stealth</Cell></Row>
 <Row><Cell>ui_tutorial_name_surrender</Cell><Cell>Surrender</Cell><Cell>Surrender</Cell></Row>
 <Row><Cell>ui_tutorial_name_talking</Cell><Cell>Speech and Persuasion</Cell><Cell>Speech and Persuasion</Cell></Row>
+<Row><Cell>ui_tutorial_name_tournament</Cell><Cell>Rattay Tournament</Cell><Cell>Rattay Tournament</Cell></Row>
 <Row><Cell>ui_tutotial_name_shadiness</Cell><Cell>Crime and Reputation</Cell><Cell>Crime and Reputation</Cell></Row>
 <Row><Cell>unconscious</Cell><Cell>Unconsciousness</Cell><Cell>Unconsciousness</Cell></Row>
 <Row><Cell>unconscious_alcohol</Cell><Cell>Alcoholic stupor</Cell><Cell>Alcoholic Stupor</Cell></Row>

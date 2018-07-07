@@ -47,6 +47,7 @@
       <row hidden="True" icon_id="0" induced_skill_id="" skill_desc_adept="" skill_desc_beginner="" skill_desc_expert="" skill_desc_master="" skill_desc_nolevel="ui_skill_armourer_desc0" skill_id="28" skill_name="armourer" ui_levelup_string_name="ui_skill_armourer_levelup" ui_string_name="ui_skill_armourer" />
       <row hidden="True" icon_id="0" induced_skill_id="" skill_desc_adept="" skill_desc_beginner="" skill_desc_expert="" skill_desc_master="" skill_desc_nolevel="ui_skill_weaponsmithing_desc0" skill_id="29" skill_name="weaponsmithing" ui_levelup_string_name="ui_skill_weaponsmithing_levelup" ui_string_name="ui_skill_weaponsmithing" />
       <row hidden="True" icon_id="0" induced_skill_id="" skill_desc_adept="" skill_desc_beginner="" skill_desc_expert="" skill_desc_master="" skill_desc_nolevel="ui_skill_shoemaking_desc0" skill_id="30" skill_name="shoemaking" ui_levelup_string_name="ui_skill_shoemaking_levelup" ui_string_name="ui_skill_shoemaking" />
+      <row hidden="True" icon_id="0" induced_skill_id="" skill_desc_adept="" skill_desc_beginner="" skill_desc_expert="" skill_desc_master="" skill_desc_nolevel="" skill_id="31" skill_name="gambling" ui_levelup_string_name="" ui_string_name="" />
     </rows>
   </table>
 </database>

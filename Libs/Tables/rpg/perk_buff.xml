@@ -99,10 +99,12 @@
       <row buff_id="0cc86b00-3c4f-418f-9ac7-f6d1ef51e6d2" perk_id="0dd2c3df-9f61-4743-b5ca-8c3ac39fb57d" />
       <row buff_id="c052039b-da71-4890-a4be-8e62e374cfb0" perk_id="0e31656e-9b9d-4f54-979a-48848eb0810b" />
       <row buff_id="8b1ee791-17ee-445f-9be2-cf75da1e719b" perk_id="0f3cffa7-d80b-4688-934d-784a09269f60" />
+      <row buff_id="0f20ae35-f3b8-44a5-bd00-0ebe80611fcd" perk_id="0f635b58-63e4-4db4-aa1a-5496d62e1a66" />
       <row buff_id="854af3e0-abd9-4318-b9fb-559836c92d47" perk_id="170757df-5808-4ca4-b710-f646a823ed13" />
       <row buff_id="63d5e1a6-fa33-4f10-87d4-5b9c0e359c75" perk_id="186fce21-722e-476a-a1a2-be15b342911a" />
       <row buff_id="3d3d049e-2eea-4b4b-a86c-777c9ab2fbee" perk_id="1888a786-2fc2-4a21-962f-9d70da838d01" />
       <row buff_id="d7e2e1d3-c28f-49ee-b4d3-577bea6591c6" perk_id="1ad460fd-ddc1-44cb-9c50-e3e0d60abbd0" />
+      <row buff_id="06b51f16-ce08-49e8-970e-14dab9531162" perk_id="1e7c2255-b068-47a0-9447-4e0fe5205e8c" />
       <row buff_id="030c1c68-d6e8-4677-86e9-bea7648ffc20" perk_id="2593be93-694e-4e08-8fad-29b8fc347963" />
       <row buff_id="ed8e5d6a-7893-4a9c-939c-f430859bf832" perk_id="2843ec2a-c30e-4b8b-804d-3e78c71061e4" />
       <row buff_id="5815db0b-0d67-4559-b7a8-290a012cba4e" perk_id="29bab126-6661-4365-8a4f-02b4681e7036" />
@@ -110,6 +112,7 @@
       <row buff_id="f93e5f9b-3dc7-484e-aa65-4830a0168886" perk_id="2b024592-efdc-4282-916a-e5ceb0197bd8" />
       <row buff_id="5968df62-e746-4c0f-9eb8-dd4de5dd3d2e" perk_id="2cd86a68-776f-4d9b-ae3f-a0273dfff1f6" />
       <row buff_id="942e3fee-6be1-4e29-8da2-f6dba1d5fe6a" perk_id="2dee44cb-616e-47f4-a1f0-82e77a198a36" />
+      <row buff_id="e5c32b8f-fd62-40d3-9634-67429bce7b0e" perk_id="305dd4f2-6923-42cb-a14d-2af07dff2863" />
       <row buff_id="70e9e92a-8e1c-4bdb-983d-e8b35bba4389" perk_id="310ae3f0-89b9-4e34-8ccb-68b47298e49a" />
       <row buff_id="166379a6-c26d-427e-8795-48cff1c18328" perk_id="3283a518-3529-4cc8-9538-775809002b1e" />
       <row buff_id="4bcfee17-0691-4f22-8d78-1d21cb05a304" perk_id="32e8e4e2-d86c-41fa-a731-dcabfe9806c5" />
@@ -130,9 +133,11 @@
       <row buff_id="52d7e2df-768b-47ee-8dc4-29332511b78a" perk_id="52f2e3cc-b02b-416f-a2cb-6887989be3df" />
       <row buff_id="ab52bcd4-2a16-4bed-95fb-dac933f624e8" perk_id="550db16e-b917-4057-b3ac-39bf401d1157" />
       <row buff_id="3e0867d9-cdb1-469f-a59e-e05a377b2b67" perk_id="5b76b323-306a-4029-b602-c4843cc6f721" />
+      <row buff_id="88a11846-ffe2-49f0-b88b-1980a6e3791e" perk_id="5ef31fc4-244e-40ac-b088-03e5730ff5c1" />
       <row buff_id="6b6d81d5-db3e-4057-bad1-949c6d49a25c" perk_id="5fbecbdf-b2da-423c-8e39-efb497c6d1c3" />
       <row buff_id="036cb344-d1d9-4426-8cb8-f2d86f5b79ae" perk_id="619456f9-0462-4e27-8e9f-bd297dd94527" />
       <row buff_id="ab1503b5-1494-456a-baa1-0c2f4efbf3e5" perk_id="63067fb0-76d9-40bb-ae6c-d8f7627d24f7" />
+      <row buff_id="79cffcfa-2769-4424-aad2-181b08bf9aed" perk_id="6402905d-6cfa-4666-80bf-2a70b0b82bd1" />
       <row buff_id="04271c36-dcb7-4833-b79d-439aae1ff2bd" perk_id="674e9582-83f5-4403-8606-9f0698b060c4" />
       <row buff_id="755a14fa-1394-4bb6-88e1-a22371156287" perk_id="68530236-eb11-4065-b781-f23f120c6b5b" />
       <row buff_id="041bdeeb-cc02-428d-93bb-58dab72010b5" perk_id="6a32be0f-8a74-4354-b785-4af96b9bb28b" />
@@ -168,13 +173,17 @@
       <row buff_id="7a08825e-053d-4e18-a75d-55b60db1c4c8" perk_id="97aac44f-2789-4030-8438-a8421c7ae5e2" />
       <row buff_id="ffa8cd2e-72d0-4e3f-a025-d152dec040b9" perk_id="98e0ab40-916f-4a03-aa33-8ece402001b9" />
       <row buff_id="86879e96-f4c0-4824-bc31-c2a24567582f" perk_id="99dfdd67-6da7-4215-878f-6a35fe7a3f6a" />
+      <row buff_id="846afd46-0d8c-4a65-9cdf-24e16c314b67" perk_id="9a5842cb-6dc1-4602-a585-aa99bfc9eb16" />
       <row buff_id="82876559-3ed1-4783-881f-b12e7471d7b1" perk_id="9b977f74-2483-42e2-9993-645d72ce3f20" />
       <row buff_id="658deed5-9498-41a0-b57f-8e67c3f4f25c" perk_id="a66149e3-71a7-440a-b287-60c23efbe6a9" />
+      <row buff_id="651130c8-540c-45ac-a8cf-734a334320ef" perk_id="aa725966-98eb-4db2-8cd5-ad3d43b13f14" />
       <row buff_id="50a051b2-be86-4c5f-a788-6d97e0ec41c6" perk_id="ac3e40ca-0e59-4cef-b84b-0b0f3588396b" />
       <row buff_id="4f5fd05d-3725-4d65-93e2-83425db07a42" perk_id="ad889d46-e087-4752-95d9-fa6652e8cab3" />
       <row buff_id="1d955065-5481-4733-8595-008396e54f2c" perk_id="afbbe0d9-c1a1-40de-9c93-9cecc3dd181d" />
       <row buff_id="fe92e4af-249a-43c0-818c-22e5421de805" perk_id="b115b0cf-8b5f-4cf9-a2c1-84bcee4103d1" />
+      <row buff_id="75746cba-af72-40d0-bc33-843769e0ab43" perk_id="b59a2f39-faf4-4a1d-88c2-c059dadc6abb" />
       <row buff_id="2face638-f944-4901-b066-8adc9cdf67d4" perk_id="b8fe14a2-59af-4acb-b11e-a5ff04bfccc1" />
+      <row buff_id="ee15a8e3-85f0-4d59-bb7b-27f882960b3d" perk_id="b9aa28f1-ccbb-4c0c-9718-c218f01d749b" />
       <row buff_id="5d669fd1-0f36-4e30-95b8-1b5e53fac46e" perk_id="bc29dce7-f5b4-42ee-ae56-3598ce7b3519" />
       <row buff_id="99c6909b-1534-472e-8970-a0b2f873434f" perk_id="bc8020c1-08df-4aeb-aea5-a01d2d00af15" />
       <row buff_id="49e55549-614a-4e02-9560-a552964fb81d" perk_id="bf886546-1e88-4ff8-b3ea-85386a8ace08" />
@@ -186,6 +195,7 @@
       <row buff_id="a0af2bc8-0580-4035-a2d8-b58bf08454d2" perk_id="ca21718f-b04e-4609-9415-250074f895e2" />
       <row buff_id="d3738270-45ee-4a64-bcca-a9bba05ec6cc" perk_id="cd1756c2-c873-4fb0-989a-b3017e4ee7ab" />
       <row buff_id="6df3f29c-6e16-4b2f-877a-240d2ca01a36" perk_id="cdce7fe9-c7a8-4aaf-8018-3df0aad5ee27" />
+      <row buff_id="8c8a9c48-db38-4914-8e41-5a435c9b1dac" perk_id="ce2fe289-4c26-45c0-803b-32627d288765" />
       <row buff_id="197fbdb5-0d7b-4b6f-9b15-63e61c773f48" perk_id="cf22a6bc-53d1-481f-8cef-3682635588fb" />
       <row buff_id="4b876924-f960-4332-9b28-e9176a9eac09" perk_id="d17df55d-3ff2-45e6-9c4f-a9dc0f83a830" />
       <row buff_id="4f76af07-fb3f-460b-b84a-a33f086ee7d1" perk_id="dcfc3a80-4151-4e18-9cb0-6bfe6c77637a" />
@@ -195,6 +205,7 @@
       <row buff_id="28282334-0d85-4448-b07b-db63fe7202c1" perk_id="ee871cfa-e9ae-4d53-bb15-0c6ec96eb758" />
       <row buff_id="a6b81a36-d8bb-480f-bb4a-73b95c09527a" perk_id="f115ece0-669e-4084-8063-0a448b0ae9a5" />
       <row buff_id="35c0fb6e-bb7e-4208-afd1-8c18ca1fb80f" perk_id="f19f542a-979a-4627-8d1c-9038f7dfc7be" />
+      <row buff_id="84800929-8767-41e3-8035-e681c741bdaa" perk_id="f1f439cd-7636-4060-8a8b-233153f7f685" />
       <row buff_id="c1fb4838-2364-46c5-bdff-d2794dbf8328" perk_id="f3178ac4-c895-4f9e-9e21-985aa64c665b" />
       <row buff_id="97f0e39f-6234-4907-b54a-ea67bf026139" perk_id="f34875de-7236-4c61-ab85-5ea66d7537ff" />
       <row buff_id="c74f8266-cc94-4cac-894e-dd5536d2f312" perk_id="f44b5667-c686-4c3c-a7a3-0c3d0c8a2339" />
@@ -202,6 +213,7 @@
       <row buff_id="7481f890-237d-4312-b647-f056c880edc2" perk_id="fa299718-b1eb-4664-8769-25f82fb95de9" />
       <row buff_id="4ef22d49-7c08-419a-8f72-9046f9b68cf3" perk_id="fa4c0aa8-1278-47d8-96e1-330d6ad20b6c" />
       <row buff_id="7edb27d6-448a-46a1-bc02-46de157311d4" perk_id="fb8eb0bf-4437-41d4-b1d6-762ad3202b45" />
+      <row buff_id="cfe6b977-2c6c-40dc-9924-c8c9176a0070" perk_id="fbedb426-410c-4614-952a-1086b6f6554f" />
       <row buff_id="3344d9b7-eeb6-4ee4-97fe-0f2ef03f9ee6" perk_id="fca43fe5-0a8b-4fb5-9417-e1b38969ee4c" />
       <row buff_id="bcb5d2df-5e75-4211-af98-6f93308d8928" perk_id="ff42b2ac-184d-44f7-b6a2-7a9b8ae87c45" />
     </rows>
